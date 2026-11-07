@@ -13,7 +13,7 @@ git status --short
 - [x] Git history reviewed: the only earlier commit contains `.gitignore` and `README.md`.
 - [x] `.gitignore` excludes personal genotype files everywhere in the repository, not only in `data/`.
 - [x] The local weekly notebook is ignored. `notebooks/weekly_tasks_public.ipynb` is the version to publish.
-- [x] Public Week 5: all outputs cleared, personal results and personal counts removed from text and code.
+- [x] Public Week 5: the private section is left out and replaced by the same workflow on a public participant.
 - [x] The scanner checks every file Git would publish, including personal values read from local results at run time.
 - [x] Demo genotypes contain only people from the public 1000 Genomes panel.
 - [x] Owner reviewed the items below that needed a decision.
@@ -34,8 +34,7 @@ git status --short
 Decided by the repository owner on 2026-11-06:
 
 - **Demo expression values:** publishing the 12 genes of real GEUVADIS data in `data/demo/` is accepted.
-- **The name "Tiffany" in the public notebook:** stays. Week 5 code and text use the name but contain no genotypes or
-  results.
+- **The name "Tiffany" in the public notebook:** stays in the Week 5 text only. It contains no genotypes or results.
 - **No `LICENSE` file:** none will be added. Without one, others have no formal permission to reuse the code.
 
 ## Reproducibility

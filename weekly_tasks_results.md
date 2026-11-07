@@ -150,7 +150,22 @@ excluded no gene, so it could not affect the selection.
 
 ## Week 5: 23andMe and Height Polygenic Scores
 
-Personal results are private and not in this repository. Only the method-level takeaways are here.
+The original analysis used a private 23andMe file, and those personal results are not in this repository. The public
+notebook runs the same workflow on **NA20792**, one person chosen at random (seed 42) from the 1000 Genomes EUR panel.
+These results are that participant's and do not reproduce the private analysis.
+
+| Quantity | Result |
+|---|---:|
+| Reference group | 488 people (the panel without NA20792) |
+| GWAS rows / passed QC | 529,504 / 499,617 |
+| Harmonized with the panel | 138,480 |
+| Clump index SNPs | 67,385 |
+| Scoring SNPs (p ≤ 0.001) | 8,699 |
+| Reference mean / SD | 0.875 / 0.869 |
+| NA20792 score | 2.652 |
+| NA20792 percentile / z-score | 97.34 / 2.05 |
+
+NA20792's score is high within this reference group, but the GWAS is simulated, so this says nothing about their height.
 
 - **The weights are simulated.** The assigned height file comes from the PRS tutorial, which identifies its GWAS as
   simulated. The scores are an educational comparison, not a validated estimate of anyone's height predisposition.

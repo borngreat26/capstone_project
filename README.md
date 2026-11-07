@@ -33,7 +33,7 @@ in the genome. The [Part 1 results](quarter1_part1_results.md) explain the diffe
 ├── weekly_tasks_results.md         Weeks 1–6 findings and takeaways
 ├── notebooks/
 │   ├── quarter1_project.ipynb      Part 1: genome-wide cis-eQTL analysis
-│   └── weekly_tasks_public.ipynb   Weeks 1–6, with private Week 5 results removed
+│   └── weekly_tasks_public.ipynb   Weeks 1–6, with Week 5 run on a public participant
 ├── src/
 │   ├── eqtl.py                     cis-eQTL regressions and multiple-testing correction
 │   ├── locuszoom.py                Builds the Week 6 LocusZoom page
@@ -46,6 +46,7 @@ in the genome. The [Part 1 results](quarter1_part1_results.md) explain the diffe
 │   ├── inspect_sumstats.py         Inventory of the GWAS files
 │   ├── render_locuszoom.py         Renders the Week 6 LocusZoom page to a PNG (needs Playwright)
 │   ├── make_public_notebook.py     Creates the public weekly notebook (maintainers only)
+│   ├── public_week5_cells.py       The public notebook's Week 5, on a public participant
 │   └── check_public_files.py       Scans files for private data before publishing
 ├── data/demo/                      Small public demo dataset, with its own README
 ├── results/part1/                  Part 1 summary tables and figures
@@ -64,6 +65,9 @@ conda activate capstone
 ```
 
 This installs Python 3.14.10, the exact packages used here, and PLINK2 from Bioconda.
+
+**BCFtools and SAMtools:** only the private Week 5 conversion needs these (`brew install bcftools samtools`). They are not
+in `environment.yml`, and nothing else uses them.
 
 **PLINK2:** the code looks for it in this order: the `PLINK2_BIN` environment variable, `plink2` on your `PATH`, then a
 local `./plink2_binary`. To use your own [PLINK2 download](https://www.cog-genomics.org/plink/2.0/):
@@ -146,20 +150,27 @@ python scripts/run_full_analysis.py
 ```
 
 This runs `notebooks/quarter1_project.ipynb` (3–5 minutes, about 1.3 GB of working files). Full results go
-to `data/quarter1_results/part1/`, including Table A with all 6.6 million associations. Summary tables and
-figures are copied to `results/part1/`:
+to `data/quarter1_results/part1/`, including Table A with all 6.6 million associations. Summary tables are
+copied to `results/part1/`:
 
 - **Tables:** `table_B_gene_summary.tsv`, `table_C_chromosome_summary.tsv`, `correction_summary.tsv`,
   `excluded_genes.tsv`, `minor_allele_count_summary.tsv`, `top_gene_robustness.tsv`, and `verification_checks.tsv`.
-- **Figures:** `gene_filtering.png`, `multiple_testing_summary.png`, `significant_by_chromosome.png`,
-  `snps_tested_per_gene.png`, `genome_wide_lead_cis_eqtl.png`, `top_gene_locus.png`, and `RPS26_locuszoom.png`.
+- **Figures:** the notebook saves all 7 plots to `results/part1/figures/`, numbered in notebook order:
+  `01_genes_kept_at_each_filtering_step.png`
+  `02_multiple_testing_results.png`
+  `03_significant_cis_eqtls_by_chromosome.png`
+  `04_snps_tested_per_gene.png`
+  `05_manhattan_strongest_cis_eqtl_per_gene.png`
+  `06_RPS26_association_and_expression_by_genotype.png`
+  `07_RPS26_locuszoom.png`
 
 **Weekly tasks:** `notebooks/weekly_tasks_public.ipynb` is a record of the course tasks, with their original outputs. It
 is not a one-command reproduction, because Weeks 3, 4, and 6 read small GENCODE extracts that were prepared by hand.
 Part 1 above covers the same methods genome-wide and needs no such files.
 
-**What cannot run without private data:** Week 5's comparison needs the private 23andMe file, so it cannot be
-reproduced from this repository. The demo shows the same workflow on a public individual.
+**Week 5 in public:** the original comparison used a private 23andMe file, so it cannot be reproduced from this
+repository. The public notebook runs the same workflow on NA20792, a randomly chosen public participant, using the full
+panel and the height GWAS. Those results are that participant's, and the small demo uses the same person.
 
 **Part 2** has not been implemented yet.
 

@@ -67,7 +67,7 @@ def private_counts():
 
 
 def week_5_problems(name):
-    """Week 5 cells must have no outputs or personal counts, and no output anywhere may mention the private individual."""
+    """Week 5 must run on public data only, with no personal counts, and no output may mention the private individual."""
     problems, in_week_5 = [], False
     counts = private_counts()
     for cell in json.loads((REPO_ROOT / name).read_text())['cells']:
@@ -75,11 +75,14 @@ def week_5_problems(name):
         if cell['cell_type'] == 'markdown' and source.startswith('# Week'):
             in_week_5 = source.startswith('# Week 5')
         outputs = cell.get('outputs', [])
-        if in_week_5 and outputs:
-            problems.append(f'{name}: a Week 5 cell still has outputs')
-        if in_week_5 and any(count in source for count in counts):
-            problems.append(f'{name}: Week 5 text or code contains a private count')
-        if 'tiffany' in json.dumps(outputs).lower():
+        output_text = json.dumps([{key: value for key, value in output.items() if key != 'data'}
+                                  | {'data': {kind: text for kind, text in output.get('data', {}).items() if kind != 'image/png'}}
+                                  for output in outputs])
+        if in_week_5 and cell['cell_type'] == 'code' and re.search(r'week5_results|genome_Tiffany|Tiffany_', source):
+            problems.append(f'{name}: public Week 5 code reads private files')
+        if in_week_5 and any(re.search(rf'(?<![\d.,]){re.escape(count)}(?![\d.,])', f'{source} {output_text}') for count in counts):
+            problems.append(f'{name}: Week 5 text, code, or output contains a private count')
+        if 'tiffany' in output_text.lower():
             problems.append(f'{name}: an output mentions the private individual')
     return problems
 

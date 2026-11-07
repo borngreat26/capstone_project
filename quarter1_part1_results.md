@@ -26,7 +26,7 @@ protein-coding and where they sit, because neither of the other two datasets rec
 
 The Bonferroni cutoff is p < 7.58 × 10⁻⁹. The largest p-value passing BH is 7.72 × 10⁻⁴.
 
-![From annotated genes to analyzed genes](results/part1/gene_filtering.png)
+![From annotated genes to analyzed genes](results/part1/figures/01_genes_kept_at_each_filtering_step.png)
 
 **How many genes were analyzed?** **14,661, not the roughly 20,000 in the project goal.** GENCODE v12
 lists 20,110 protein-coding genes, but only 15,280 have measurements in the expression file:
@@ -44,7 +44,7 @@ chromosome 12, where the panel has no SNPs from about 7.0 to 10.0 Mb.
 
 ### Which Genes Have the Strongest Evidence?
 
-![Strongest cis-eQTL per gene](results/part1/genome_wide_lead_cis_eqtl.png)
+![Strongest cis-eQTL per gene](results/part1/figures/05_manhattan_strongest_cis_eqtl_per_gene.png)
 
 **RPS26** on chromosome 12 is strongest (rs10876864, p = 4.9 × 10⁻¹³⁷), followed by **LDHC**
 (1.1 × 10⁻¹¹⁴), **ERAP2** (1.6 × 10⁻¹⁰⁹), **MXRA7** (1.1 × 10⁻¹⁰⁰), and **PEX6** (1.7 × 10⁻⁹⁹). In RPS26,
@@ -64,7 +64,7 @@ FAM118A, and CAV2 also weaken noticeably. All 15 of the top genes still pass the
 
 ### Which Chromosomes Stand Out?
 
-![Significant cis-eQTLs by chromosome](results/part1/significant_by_chromosome.png)
+![Significant cis-eQTLs by chromosome](results/part1/figures/03_significant_cis_eqtls_by_chromosome.png)
 
 **Chromosome 1** has the most BH-significant pairs (8,881), and **chromosome 6** has the most Bonferroni
 pairs (1,969). These totals largely follow how many genes and SNPs each chromosome has, since chromosome 1
@@ -77,7 +77,7 @@ where the percentages can move more by chance. We did not test whether the diffe
 
 ### The Strongest Locus: RPS26
 
-![RPS26 LocusZoom plot](results/part1/RPS26_locuszoom.png)
+![RPS26 LocusZoom plot](results/part1/figures/07_RPS26_locuszoom.png)
 
 The plot separates what LD can and cannot explain at RPS26:
 
@@ -137,8 +137,7 @@ only protein-coding genes, and each test is now corrected for the genome-wide fa
 **Published in `results/part1/`:**
 
 - **Tables:** `table_B_gene_summary.tsv` and `table_C_chromosome_summary.tsv`.
-- **Figures:** `gene_filtering.png`, `multiple_testing_summary.png`, `significant_by_chromosome.png`,
-  `snps_tested_per_gene.png`, `genome_wide_lead_cis_eqtl.png`, `top_gene_locus.png`, and `RPS26_locuszoom.png`.
+- **Figures:** all 7 plots are in `results/part1/figures/`, numbered in notebook order.
 - **Supporting files:** `excluded_genes.tsv`, `correction_summary.tsv`, `minor_allele_count_summary.tsv`,
   `top_gene_robustness.tsv`, and `verification_checks.tsv`.
 

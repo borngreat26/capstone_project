@@ -20,11 +20,10 @@ WORKING_RESULTS = REPO_ROOT / 'data/quarter1_results/part1'
 PUBLISHED_RESULTS = REPO_ROOT / 'results/part1'
 REQUIRED_INPUTS = ['data/GD462.GeneQuantRPKM.50FN.samplename.resk10.txt',
                    *[f'data/LDREF/1000G.EUR.{c}.{ext}' for c in range(1, 23) for ext in ('bed', 'bim', 'fam')]]
+# The notebook saves its figures directly to results/part1/figures/.
 PUBLISHED_FILES = ['table_B_gene_summary.tsv', 'table_C_chromosome_summary.tsv', 'correction_summary.tsv',
                    'excluded_genes.tsv', 'minor_allele_count_summary.tsv', 'top_gene_robustness.tsv',
-                   'verification_checks.tsv', 'gene_filtering.png', 'multiple_testing_summary.png',
-                   'significant_by_chromosome.png', 'snps_tested_per_gene.png', 'genome_wide_lead_cis_eqtl.png',
-                   'top_gene_locus.png', 'RPS26_locuszoom.png']
+                   'verification_checks.tsv']
 
 
 def main():
