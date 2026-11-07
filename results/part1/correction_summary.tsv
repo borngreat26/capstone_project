@@ -1,0 +1,4 @@
+	SNP-gene pairs	Protein-coding genes
+Nominal p < 0.05	606786	14455
+BH < 0.05	101916	6258
+Bonferroni < 0.05	20172	1292

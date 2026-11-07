@@ -218,3 +218,63 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---------------------------------------------------------------------------
+# PRIVATE: personal genotype data must never be published.
+# These rules apply everywhere, including folders added later.
+# ---------------------------------------------------------------------------
+*[Tt]iffany*
+*23[Aa]nd[Mm]e*
+genome_*.txt
+*.vcf
+*.vcf.gz
+*.bcf
+*.tbi
+*.csi
+
+# Individual-level genotype files and PLINK outputs. Only data/demo/ is allowed (see below).
+*.bed
+*.bim
+*.fam
+*.pgen
+*.pvar
+*.psam
+*.traw
+*.raw
+*.sscore
+*.clumps
+*.vcor
+*.afreq
+*.acount
+
+# Local notebook with private outputs, and any copy of it, anywhere. Publish notebooks/weekly_tasks_public.ipynb instead.
+quater1_weekly_tasks*.ipynb
+
+# Week 5 personal results, anywhere.
+*personal_results*
+
+# Full-size data stays local; README.md explains how to obtain it. Only the demo is published.
+/data/*
+!/data/demo/
+!/data/demo/**
+/data/demo/work_tmp/
+
+# Large references
+*.fa
+*.fai
+
+# Generated demo outputs (recreate them with scripts/run_demo.py)
+/results/demo/*
+!/results/demo/.gitkeep
+
+# Local tools (install PLINK2 as README.md describes)
+/plink2/
+/plink2_binary
+/plink2_mac_arm64_20261015/
+
+# Local planning notes
+/instrucitons.md
+/quarter1_project.md
+
+# macOS
+.DS_Store

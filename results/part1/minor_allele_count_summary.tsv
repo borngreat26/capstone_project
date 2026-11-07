@@ -1,0 +1,5 @@
+Minor_Allele_Count	Tests	Nominal_Rate	BH_Pairs	Bonferroni_Pairs
+1	2462	0.0439	15	5
+2-4	40051	0.0566	346	63
+5-9	114712	0.0586	688	59
+10 or more	6440283	0.0928	100867	20045

@@ -1,0 +1,18 @@
+# Versions below come from the environment used for this project (Apple Silicon macOS, Python 3.14.10).
+# Create it with:  conda env create -f environment.yml
+name: capstone
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.14.10
+  - numpy=2.5.4
+  - pandas=3.0.6
+  - ipykernel=7.3.0
+  - plink2
+  - pip
+  - pip:
+      - matplotlib==3.11.2
+      - scipy==1.18.1
+      - nbclient==0.11.0
+      - nbformat==5.11.1

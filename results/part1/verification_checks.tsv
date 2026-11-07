@@ -1,0 +1,24 @@
+	Passed
+All 22 autosomes have results	True
+Every analyzed gene is protein-coding in GENCODE	True
+Every eligible gene is analyzed or has a recorded reason	True
+Every SNP is on its gene's chromosome	True
+Every SNP is inside gene body +/- 500 kb	True
+No SNP-gene pair is tested twice	True
+Every test uses all 344 people	True
+All p-values, betas, and SEs are valid	True
+All matched people are in every genotype file	True
+All matched people are in the expression table	True
+SNP positions match the reference panel	True
+Counted alleles are alleles of that SNP	True
+BH count matches a direct step-up calculation	True
+Bonferroni count matches p < 0.05 / all tests	True
+Table B tests sum to Table A rows	True
+Table B hits sum to Table A hits	True
+Table C columns sum to Table A and Table B	True
+Saved Table A matches in-memory results	True
+Matched people are the same as Week 2	True
+Chromosome 1 pairs match Week 4 exactly	True
+Chromosome 1 betas and p-values match Week 4	True
+PARK7 lead SNP and p-value match Week 3	True
+Refit from raw files matches Table A	True
