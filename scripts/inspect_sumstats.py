@@ -12,6 +12,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from src.prs import AMBIGUOUS_PAIRS, COMPLEMENT
 from src.utils import REPO_ROOT
 
+if not list((REPO_ROOT/'data/sumstats').glob('*.sumstats.gz')):
+    print('Unused Z-only GWAS archives were removed; historical inventory is retained in docs/gwas_sumstats_inventory.tsv and results/part2/gwas_inventory.tsv.')
+    raise SystemExit(0)
+
 panel = pd.concat([pd.read_csv(f'{REPO_ROOT}/data/LDREF/1000G.EUR.{c}.bim', sep=r'\s+', header=None, usecols=[1, 4, 5],
                                names=['SNP', 'R1', 'R2']) for c in range(1, 23)])
 heritability = pd.read_csv(REPO_ROOT / 'data/sumstats/alltraits.txt', sep='\t').set_index('Trait_Identifier')

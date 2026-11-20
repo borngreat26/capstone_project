@@ -44,3 +44,8 @@ This GWAS is simulated, not published, so its weights say nothing about any real
 | `Incompatible alleles` | 3 | Removed |
 | `Not in panel` | 3 | Removed |
 | `Duplicate row` | 2 | Only the first copy is kept |
+
+`demo_atac.bed` contains three **synthetic** GRCh37 BED6 intervals, including a
+one-base interval at the demo lead SNP. They are invented teaching examples,
+not experimental ENCODE measurements. `run_demo.py` uses the same half-open
+interval functions as Week 7 to annotate unique demo SNPs.

@@ -1,0 +1,1 @@
+Gene_ID	Gene_Symbol	Gene_Chr	Gene_Start	Gene_End	Reason	Gene_Length	Training_Expression_SD	Training_Expression_Mean	Panel_Cis_SNPs	SNPs_Per_Mb	Length_Bin	Density_Bin	Variability_Bin	Training_Min_P	Training_Eligible_SNPs	Training_Nominal_Hits	Training_Gene_Bonferroni_Hits	Evidence	Exclusion

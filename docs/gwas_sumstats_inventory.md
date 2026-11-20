@@ -1,5 +1,10 @@
 # GWAS Summary Statistics: What the Local Files Support
 
+**Cleanup, November 20, 2026:** the 90 unused Z-only archives were removed at the user's
+request. This document and its TSV preserve the historical inspection. Active effect files
+remain in `data/gwas_original/`; current analyses do not require the deleted TCSC archives.
+`results/part2/unused_gwas_cleanup.tsv` records names, headers, sizes and checksums.
+
 `scripts/inspect_sumstats.py` checked all 90 `.sumstats.gz` files in `data/sumstats/`, from the
 [TCSC repository](https://github.com/TiffanyAmariuta/TCSC/tree/main/sumstats). The results for each file are in
 [gwas_sumstats_inventory.tsv](gwas_sumstats_inventory.tsv). These files are not copied into this repository.
@@ -29,14 +34,17 @@ depends on sample size and allele frequency. No PRS has been calculated from the
 - **Details not in the files:** ancestry, case and control counts, and usage limits have to come from each
   original publication. This inventory did not verify them.
 
-## Options for Part 2
+## Current Part 2 decision
 
-| Option | How it works | Trade-offs |
-|---|---|---|
-| **A. Original GWAS downloads (recommended)** | Get betas or odds ratios, standard errors, p-values, and positions from each published study | The most defensible choice, and it matches the Week 5 workflow. Takes more work, and access varies by study |
-| **B. Approximate from Z** | $\hat\beta \approx Z / \sqrt{2p(1-p)(N+Z^2)}$, with $p$ from a reference panel and p-values from Z | Works with local files. Effects are on a standardized scale, depend on the reference frequencies, and need effective N for disease traits. Needs instructor approval |
+No Z-to-beta reconstruction is used or recommended for the primary analysis. A normal-tail
+p-value derived from a reported Z-score would not supply the missing effect coefficient or
+verify allele orientation. The selected original GWASs, effect definitions and checksums are
+in [`results/part2/selected_diseases.tsv`](../results/part2/selected_diseases.tsv); the updated
+inventory of local LDSC and original files is in
+[`results/part2/gwas_inventory.tsv`](../results/part2/gwas_inventory.tsv).
 
-P-values can be calculated exactly from Z, so clumping is possible with these files. The missing piece is the weights.
+The old inventory below remains a record of the original 90 TCSC downloads. A candidate
+file being listed is not evidence that it supports a direct PRS.
 
 ## Suggested Disease Traits
 

@@ -55,14 +55,17 @@ def harmonize_to_reference(gwas, reference_variants):
     return harmonized[['CHR', 'BP', 'SNP', 'A1', 'A2', 'BETA', 'P', 'R1', 'R2']], counts
 
 
-def clump(harmonized, bfile, work_prefix, r2=0.1, kb=250):
+def clump(harmonized, bfile, work_prefix, r2=0.1, kb=250, keep=None):
     """Return the index SNPs from PLINK2 LD clumping of one chromosome's harmonized GWAS."""
     work_prefix = Path(work_prefix)
     gwas_path = Path(f'{work_prefix}_gwas.tsv')
     harmonized.to_csv(gwas_path, sep='\t', index=False)
-    run_plink(['--bfile', bfile, '--clump', gwas_path, '--clump-id-field', 'SNP', '--clump-p-field', 'P',
+    command = ['--bfile', bfile, '--clump', gwas_path, '--clump-id-field', 'SNP', '--clump-p-field', 'P',
                '--clump-a1-field', 'A1', '--clump-p1', '1', '--clump-p2', '1', '--clump-r2', r2,
-               '--clump-kb', kb, '--out', work_prefix])
+               '--clump-kb', kb, '--out', work_prefix]
+    if keep is not None:
+        command += ['--keep', keep]
+    run_plink(command)
     return pd.read_csv(f'{work_prefix}.clumps', sep=r'\s+')['ID'].tolist()
 
 
@@ -101,5 +104,6 @@ def plot_prs_distribution(reference_scores, target_score, title, target_label, o
     ax.legend(frameon=False)
     ax.spines[['top', 'right']].set_visible(False)
     fig.tight_layout()
-    fig.savefig(output_path, dpi=180)
+    fig.savefig(output_path, dpi=320)
+    fig.savefig(Path(output_path).with_suffix('.pdf'))
     plt.close(fig)

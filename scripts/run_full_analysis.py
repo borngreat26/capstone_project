@@ -1,7 +1,7 @@
 """Run the full Part 1 genome-wide cis-eQTL analysis and copy its summary results to results/part1/.
 
 Usage, from the repository root:  python scripts/run_full_analysis.py
-It needs the full public inputs described in README.md and takes a few minutes. Part 2 is not implemented yet.
+It needs the full public inputs described in README.md and takes a few minutes. Part 2 and Week 7 have separate scripts documented in README.md.
 """
 import argparse
 import os
@@ -15,7 +15,7 @@ from nbclient import NotebookClient
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from src.utils import REPO_ROOT, plink2_path
 
-NOTEBOOK = REPO_ROOT / 'notebooks/quarter1_project.ipynb'
+NOTEBOOK = REPO_ROOT / 'notebooks/quarter1_project_public.ipynb'
 WORKING_RESULTS = REPO_ROOT / 'data/quarter1_results/part1'
 PUBLISHED_RESULTS = REPO_ROOT / 'results/part1'
 REQUIRED_INPUTS = ['data/GD462.GeneQuantRPKM.50FN.samplename.resk10.txt',
@@ -37,7 +37,14 @@ def main():
         print('Using PLINK2 at:', plink2_path())
         os.environ.pop('MPLBACKEND', None)  # Let the notebook save its figures inline.
         notebook = nbformat.read(NOTEBOOK, 4)
+        part2_start = next((i for i, c in enumerate(notebook.cells)
+                            if ('expanded-research' in c.metadata.get('tags', [])
+                                or (c.cell_type == 'markdown' and c.source.startswith('## Part 2')))),
+                           len(notebook.cells))
+        saved_report = notebook.cells[part2_start:]
+        notebook.cells = notebook.cells[:part2_start]
         NotebookClient(notebook, timeout=None, kernel_name='python3', record_timing=False, resources={'metadata': {'path': str(NOTEBOOK.parent)}}).execute()
+        notebook.cells.extend(saved_report)
         nbformat.write(notebook, NOTEBOOK)
     PUBLISHED_RESULTS.mkdir(parents=True, exist_ok=True)
     for name in PUBLISHED_FILES:

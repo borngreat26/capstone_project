@@ -1,0 +1,4 @@
+Set	Unique_SNPs	Overlapping_SNPs	Percent	SNP_Gene_Pairs	Overlapping_Pairs
+All tested	1001779	16118	1.6089376998319989	6597508	185689
+BH significant	80939	3027	3.739853469897083	101916	4003
+Bonferroni significant	18136	868	4.78606087340097	20172	983

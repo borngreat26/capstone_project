@@ -1,58 +1,27 @@
-# Plan for the December 4 Final Submission
+# December 4 submission: status and remaining work
 
-Nothing in this file has been done yet unless it says so.
+Updated November 17, 2026. Part 1 is preserved; Part 2, exploratory analysis, Week 7,
+Conda and Docker demonstration workflows are implemented and verified.
 
-## Part 2: Disease Polygenic Scores
+- Part 2 uses original RA, T2D and schizophrenia effects, never the local LDSC Z-scores
+  as beta weights. Selection, coverage and limitations are recorded in the new methods/results notes.
+- The same 489 EUR people contribute to correlations, SNP overlap and PC1–PC2 sensitivity
+  analyses. No private ancestry results are generated or published.
+- Week 7 uses checksum-verified ENCFF421XIL, lifted to GRCh37 before intersecting the
+  saved Part 1 associations and GENCODE v12 genes. Negative lead-SNP overlap findings
+  are retained alongside RPS26.
+- The demo and automated tests run in a fresh Conda environment and Linux Docker.
+- Paper support is in `docs/quarter1_part2_week7_methods_results.md`,
+  `results/figure_inventory.tsv` and `docs/paper_figures.tex`. Overleaf was not modified.
 
-**First decision:** where the effect sizes come from. The local GWAS files have only Z-scores
-([details](gwas_sumstats_inventory.md)). Confirm the choice with the instructor before building on it.
+Remaining work for the paper: integrate the reviewed captions and results into the course
+LaTeX template, cite the original data/software, and check the instructor's rubric. Keep the
+SNPs-per-gene histogram supplementary. Clinical risk estimation is outside this analysis;
+score ranks are not disease probabilities. RA/T2D targeted-array coverage, ancestry,
+uncalibrated effects and the original no-covariate eQTL model belong in the limitations.
 
-For each eligible disease, reusing `src/prs.py`:
-
-1. Harmonize GWAS variants with the 1000 Genomes panel.
-2. Clump with r² 0.1 and 250 kb, as in Week 5.
-3. Apply a fixed p-value threshold, justified in advance. Without independent phenotype data, it cannot be optimized.
-4. Save the SNP weights and the number of SNPs kept at each step.
-5. Score all eligible reference people. Score the private individual **locally only**.
-6. Calculate the percentile and z-score, plot the distribution, and save a disease-level summary.
-
-Private scores, plots, and summaries stay in `data/`, which Git ignores. Public versions use the reference group only.
-
-**Interpretation:** a percentile is a rank within the reference group. It is not a disease probability or a
-relative risk, and no absolute risk will be calculated without a calibrated model.
-
-## Relationships Between Disease Scores
-
-Using the same reference people:
-
-- **Correlations:** pairwise Pearson correlations, shown as a heatmap.
-- **Scatterplots:** selected disease pairs, each with its correlation.
-- **Standardized comparison:** each score standardized with the reference mean and SD, then compared across diseases.
-- **Interpretation:** consider shared genetic architecture, LD, ancestry, and overlap between GWAS cohorts. A
-  correlation alone is not evidence of a causal relationship or a shared mechanism.
-- **Optional sensitivity analysis:** other justified thresholds or SNP coverage levels, labeled as sensitivity
-  analyses. They will not be tuned on any individual's phenotype.
-
-## Ancestry Principal Components
-
-The local genotype panel is EUR only, so PCs here describe **structure within this reference panel**. They cannot
-assign anyone to a worldwide ancestry group.
-
-- **Method:** LD-prune the panel, then run `plink2 --pca`.
-- **Uses:** plot the structure, and check how each disease score correlates with the top PCs.
-- **eQTLs:** a PC-adjusted scan would be a separate, labeled analysis. The original no-covariate results stay as they are.
-- **Scores:** scores will not be residualized automatically, and PCs do not fix every ancestry-related limitation.
-- **Privacy:** no ancestry inference or PC analysis will be run or published for the private individual.
-
-## Paper and Repository
-
-- Write the paper, using the numbers in `quarter1_part1_results.md` and the Part 2 outputs.
-- Add citations for the datasets, GWAS studies, methods, and readings.
-- Add Part 2 to `scripts/run_full_analysis.py` and `README.md`.
-- Check the paper against the instructor's rubric.
-
-## Questions for the Instructor
-
-1. Should Part 2 use original GWAS effect sizes, or are Z-based approximate weights acceptable?
-2. May the demo's small subset of real expression values be published in a public repository?
-3. How exactly was the supplied expression file processed? Its values include negatives, so they are not raw RPKM.
+The supplied expression values include negatives. The original preprocessing details still
+need clarification from the course documentation or instructor; do not describe them as raw
+RPKM. Original study archives and extracted GWAS effects remain local under their source
+terms. Review the release checklist and generated file allowlist before any staging, commit
+or push; none was performed during this work.

@@ -2,7 +2,8 @@
 
 Weeks 1-4 and 6 use public data and keep their outputs. The private Week 5 section is left out entirely and
 replaced by public_week5_cells.py, which runs the same workflow on a public participant. Those cells are only
-re-executed when their code changes. The original notebook is not changed.
+re-executed when their code changes. Week 7 adds the verified public functional-annotation
+report from public_week7_cells.py. The original notebook is not changed.
 """
 import copy
 import os
@@ -16,6 +17,7 @@ from nbclient import NotebookClient
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from public_week5_cells import CELLS
+from public_week7_cells import add_week_7
 from src.utils import REPO_ROOT
 
 SOURCE = REPO_ROOT / 'quater1_weekly_tasks.ipynb'
@@ -86,6 +88,7 @@ def main():
     intro, setup = nbformat.v4.new_markdown_cell(INTRO), nbformat.v4.new_code_cell(SETUP)
     intro['id'], setup['id'] = 'public-intro', 'public-setup'
     notebook.cells[:0] = [intro, setup]
+    add_week_7(notebook)
     nbformat.validate(notebook)
     OUTPUT.parent.mkdir(exist_ok=True)
     nbformat.write(notebook, OUTPUT)

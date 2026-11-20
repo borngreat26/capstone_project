@@ -1,0 +1,18 @@
+{
+  "Pilot_Fit_Seconds": 15.828683500178158,
+  "Pilot_Test_Seconds": 1.3404521669726819,
+  "Genes_In_Full_Target": 14661,
+  "Projected_Full_Run_Minutes": 27.968522001788717,
+  "Planning_Range_Minutes": [
+    13.984261000894358,
+    55.937044003577434
+  ],
+  "Genotype_Cache_MB": 452.183473,
+  "Peak_RAM_Measured": false,
+  "Memory_Strategy": "One chromosome at a time; int8 dosage cache with memory mapping. Peak resident RAM was not instrumented.",
+  "Projected_Models_And_Associations_MB": 918.9609874363636,
+  "Method": "Linear extrapolation; 0.5x\u20132x planning range. LD density and machine performance can change runtime/storage.",
+  "Full_Genome_Run_Launched": false,
+  "Fit_Command_After_Review": "python scripts/run_expression_prediction.py --run genomewide --all-genes --max-models 500 --stage fit",
+  "Evaluate_Command_After_Freeze": "python scripts/run_expression_prediction.py --run genomewide --stage evaluate"
+}

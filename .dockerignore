@@ -1,0 +1,11 @@
+**
+!environment.yml
+!src/
+!src/*.py
+!scripts/
+!scripts/*.py
+!tests/
+!tests/*.py
+!data/
+!data/demo/
+!data/demo/**

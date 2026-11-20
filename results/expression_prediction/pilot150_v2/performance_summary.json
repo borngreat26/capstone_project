@@ -1,0 +1,13 @@
+{
+  "Cohort_Genes": 150,
+  "Nonempty_Models_Evaluated": 150,
+  "No_Genetic_Model": 0,
+  "Mean_Test_Predictive_R2": -0.12757952153281407,
+  "Median_Test_Predictive_R2": -0.03081232992341095,
+  "Minimum_Test_Predictive_R2": -13.019679734856552,
+  "Percent_Positive_R2": 42.66666666666667,
+  "Percent_Beating_Training_Mean": 50.0,
+  "R2_Above_0_1": 29,
+  "R2_Above_0_3": 6,
+  "R2_Above_0_5": 2
+}
