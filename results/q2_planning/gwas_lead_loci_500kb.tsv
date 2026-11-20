@@ -1,0 +1,1217 @@
+Disease	CHR	BP	SNP	P	IN_PEAK	Matched_SNPs_250kb	GWS_SNP_is_BH_eQTL
+Rheumatoid arthritis	1.0	17674108	rs2240339	1.357e-08	False	50	0
+Rheumatoid arthritis	1.0	114377568	rs2476601	9.004999999999999e-62	False	151	1
+Rheumatoid arthritis	1.0	154426970	rs2228145	1.3159999999999998e-08	False	19	0
+Rheumatoid arthritis	2.0	100672692	rs10209110	1.126e-08	False	144	0
+Rheumatoid arthritis	2.0	191933254	rs13426947	7.187e-10	False	55	0
+Rheumatoid arthritis	4.0	26090862	rs932036	1.996e-10	False	49	0
+Rheumatoid arthritis	5.0	55440730	rs71624119	5.591000000000001e-20	False	22	0
+Rheumatoid arthritis	6.0	32577380	rs660895	1e-323	False	115	1
+Rheumatoid arthritis	6.0	138006504	rs6920220	1.8369999999999994e-10	False	174	0
+Rheumatoid arthritis	9.0	34710260	rs2812378	1.307e-08	False	111	0
+Rheumatoid arthritis	15.0	69991417	rs8026898	2.222e-09	False	16	0
+Rheumatoid arthritis	19.0	10463118	rs34536443	2.698e-13	False	92	0
+Type 2 diabetes	1.0	39797055		8.864e-11	False	8	0
+Type 2 diabetes	1.0	214159256		1.093e-12	False	2	0
+Type 2 diabetes	2.0	27730940		1.043e-15	False	9	0
+Type 2 diabetes	2.0	43519977		1.143e-12	False	6	0
+Type 2 diabetes	2.0	60584819		6.332e-12	False	7	0
+Type 2 diabetes	2.0	165528876		6.113e-21	False	6	0
+Type 2 diabetes	2.0	227093745		1.597e-15	False	0	0
+Type 2 diabetes	3.0	12393125		4.813e-12	False	3	0
+Type 2 diabetes	3.0	64705365		7.953e-09	False	4	0
+Type 2 diabetes	3.0	123065778		1.0260000000000001e-20	False	2	0
+Type 2 diabetes	3.0	185513392		3.935e-33	False	10	0
+Type 2 diabetes	4.0	6302519		6.68e-20	False	4	0
+Type 2 diabetes	4.0	153520475		1.277e-08	False	2	0
+Type 2 diabetes	5.0	55806751		3.729e-10	False	2	0
+Type 2 diabetes	5.0	75015242		1.786e-14	False	4	1
+Type 2 diabetes	5.0	76424949		2.927e-11	False	1	0
+Type 2 diabetes	5.0	102338811		5.884e-12	False	3	0
+Type 2 diabetes	6.0	7231843		1.601e-12	False	6	0
+Type 2 diabetes	6.0	20679709		1.216e-41	False	7	0
+Type 2 diabetes	6.0	31610384		1.009e-11	False	58	1
+Type 2 diabetes	7.0	15064309		6.285e-16	False	0	0
+Type 2 diabetes	7.0	28180556		2.226e-19	False	8	0
+Type 2 diabetes	7.0	44235668		1.875e-10	False	6	0
+Type 2 diabetes	8.0	41519248		2.597e-17	False	4	0
+Type 2 diabetes	8.0	118184783		5.5480000000000004e-30	False	7	0
+Type 2 diabetes	9.0	4292083		6.464e-09	False	3	0
+Type 2 diabetes	9.0	22133284		4.8740000000000004e-30	False	17	0
+Type 2 diabetes	9.0	139235415		4.785e-15	False	11	0
+Type 2 diabetes	10.0	80942631		1.7480000000000002e-20	False	8	0
+Type 2 diabetes	10.0	94465559		2.0970000000000001e-26	False	5	0
+Type 2 diabetes	10.0	114758349		1.36e-212	False	3	0
+Type 2 diabetes	11.0	2857194		4.81e-25	False	6	0
+Type 2 diabetes	11.0	17408630		3.757e-17	False	7	1
+Type 2 diabetes	11.0	72432985		4.094e-12	True	4	0
+Type 2 diabetes	11.0	92708710		8.854000000000001e-28	False	10	0
+Type 2 diabetes	12.0	4374373		9.344e-09	False	4	0
+Type 2 diabetes	12.0	27965150		3.908e-12	False	2	0
+Type 2 diabetes	12.0	66174894		5.885e-14	False	8	0
+Type 2 diabetes	12.0	121437114		1.168e-10	False	16	0
+Type 2 diabetes	12.0	123575742		2.231e-08	False	5	1
+Type 2 diabetes	13.0	80717156		2.756e-11	False	5	0
+Type 2 diabetes	14.0	79945162		5.325e-10	False	1	0
+Type 2 diabetes	15.0	77832762		2.421e-13	False	4	0
+Type 2 diabetes	15.0	91521337		5.706e-09	False	12	0
+Type 2 diabetes	16.0	53803574		1.629e-50	False	12	0
+Type 2 diabetes	16.0	69588572		2.465e-08	False	4	1
+Type 2 diabetes	16.0	75247245		8.175e-13	False	2	0
+Type 2 diabetes	17.0	3953102		9.117e-11	False	5	1
+Type 2 diabetes	17.0	36098040		1.318e-18	False	7	0
+Type 2 diabetes	17.0	46939658		3.112e-08	False	10	0
+Type 2 diabetes	17.0	65870073		1.117e-08	False	3	1
+Type 2 diabetes	18.0	57851097		1.644e-08	False	7	0
+Type 2 diabetes	19.0	19379549		1.674e-10	False	4	0
+Type 2 diabetes	19.0	33906123		4.519e-08	False	6	0
+Type 2 diabetes	19.0	45410002		3.21e-09	False	12	0
+Type 2 diabetes	19.0	46158513		7.205e-11	False	11	0
+Type 2 diabetes	22.0	30416527		4.003e-11	False	6	0
+Schizophrenia	1.0	2387101	rs4648845	6.74e-12	False	198	0
+Schizophrenia	1.0	8424984	rs34269918	3.268e-09	False	166	0
+Schizophrenia	1.0	30437268	rs6694545	6.2e-12	False	1	0
+Schizophrenia	1.0	44097530	rs2970610	1.39e-11	False	195	1
+Schizophrenia	1.0	66324512	rs12129719	3.35e-08	False	232	0
+Schizophrenia	1.0	73768366	rs12129573	8.94e-15	False	7	0
+Schizophrenia	1.0	95840866	rs6680011	2.83e-08	False	232	0
+Schizophrenia	1.0	98512127	rs2660304	2.18e-18	False	174	1
+Schizophrenia	1.0	150031490	rs140505938	6.5e-10	False	98	0
+Schizophrenia	1.0	174015259	rs6701877	2.37e-08	False	130	0
+Schizophrenia	1.0	177309490	rs4650963	1.16e-08	False	181	0
+Schizophrenia	1.0	190949551	rs28374258	6.35e-10	False	0	0
+Schizophrenia	1.0	200266503	rs6678676	3.22e-08	False	267	0
+Schizophrenia	1.0	239210058	rs72769124	4.73e-10	False	0	0
+Schizophrenia	1.0	243663893	rs14403	1.71e-10	False	166	1
+Schizophrenia	2.0	22749726	rs12712510	8.18e-09	False	0	0
+Schizophrenia	2.0	58383820	rs7596038	2.37e-12	False	160	0
+Schizophrenia	2.0	73623439	rs56145559	1.01e-09	False	138	1
+Schizophrenia	2.0	145141541	rs12991836	6.46e-10	False	123	0
+Schizophrenia	2.0	146436222	rs56807175	1.363e-11	False	0	0
+Schizophrenia	2.0	185640728	rs10196799	4.51e-09	False	111	0
+Schizophrenia	2.0	198304577	rs6434928	3.62e-13	False	164	0
+Schizophrenia	2.0	200715388	rs2949006	3.69e-17	True	163	1
+Schizophrenia	2.0	225391296	rs11685299	3.86e-09	False	211	0
+Schizophrenia	2.0	233562197	rs4144797	4.33e-16	True	216	0
+Schizophrenia	3.0	2521322	rs35346733	2.42e-12	False	99	0
+Schizophrenia	3.0	10804551	rs6800435	2e-08	False	335	0
+Schizophrenia	3.0	16846967	rs9881798	2.81e-08	False	247	0
+Schizophrenia	3.0	17887635	rs11409090	2.112e-09	False	130	0
+Schizophrenia	3.0	36858583	rs75968099	9.41e-11	False	219	0
+Schizophrenia	3.0	53175017	rs1080500	2.71e-12	False	168	1
+Schizophrenia	3.0	60287845	rs1353545	5.67e-09	False	452	0
+Schizophrenia	3.0	63867355	rs704373	1.39e-10	False	219	0
+Schizophrenia	3.0	71543758	rs7632921	9.52e-09	False	229	0
+Schizophrenia	3.0	136288405	rs7432375	4.07e-12	False	149	1
+Schizophrenia	3.0	161470592	rs489939	1.24e-08	False	149	0
+Schizophrenia	3.0	180623255	rs34796896	3.19e-12	False	125	0
+Schizophrenia	4.0	23423603	rs215411	1.4e-08	False	183	0
+Schizophrenia	4.0	103188709	rs13107325	1.19e-16	False	211	0
+Schizophrenia	4.0	143829759	rs13121251	4.06e-08	False	139	0
+Schizophrenia	4.0	170626552	rs10520163	2.81e-08	False	157	0
+Schizophrenia	4.0	176855221	rs62334820	9.6e-12	False	202	0
+Schizophrenia	5.0	45285752	rs16902086	5.55e-11	False	40	0
+Schizophrenia	5.0	49840113	rs77853293	1.77e-08	False	117	0
+Schizophrenia	5.0	60620980	rs7701440	3.72e-14	False	159	0
+Schizophrenia	5.0	88000630	rs254782	4.4e-08	False	151	0
+Schizophrenia	5.0	88746331	rs16867576	1.65e-11	False	31	0
+Schizophrenia	5.0	137855305	rs13169274	7.06e-10	False	157	0
+Schizophrenia	5.0	152177121	rs111294930	9.04e-12	False	19	0
+Schizophrenia	6.0	29206683	rs3130820	2.1200000000000001e-44	False	1	0
+Schizophrenia	6.0	73155701	rs1339227	3.76e-10	False	199	0
+Schizophrenia	6.0	84407466	rs217287	9.53e-13	False	172	0
+Schizophrenia	6.0	93077500	rs634940	1.3e-08	False	0	0
+Schizophrenia	6.0	114719447	rs760608	1.9e-08	False	103	0
+Schizophrenia	6.0	128329493	rs35736453	2.951e-08	False	154	0
+Schizophrenia	6.0	143650817	rs72342102	7.93e-09	False	251	0
+Schizophrenia	7.0	2025096	rs10650434	1.098e-18	False	191	0
+Schizophrenia	7.0	24777089	rs146678232	1.631e-08	False	276	0
+Schizophrenia	7.0	86427626	rs12704290	3.57e-14	False	171	0
+Schizophrenia	7.0	104927586	rs7789569	7e-11	False	177	0
+Schizophrenia	7.0	110048893	rs211829	2.29e-09	False	188	0
+Schizophrenia	7.0	110976264	rs12705761	5.11e-11	False	135	1
+Schizophrenia	7.0	131567263	rs7801375	6.27e-09	False	255	0
+Schizophrenia	7.0	137074844	rs3735025	7.02e-11	False	208	0
+Schizophrenia	8.0	4180611	rs139425113	8.476e-09	False	616	0
+Schizophrenia	8.0	10032894	rs11993663	3.4e-08	False	379	0
+Schizophrenia	8.0	18421474	rs2410572	1.07e-08	False	438	0
+Schizophrenia	8.0	26269191	rs1042992	3.67e-09	False	328	0
+Schizophrenia	8.0	27425349	rs11783093	7.64e-12	False	323	1
+Schizophrenia	8.0	34312412	rs55669358	1.37e-08	False	0	0
+Schizophrenia	8.0	38209129	rs10156310	5.56e-10	False	133	1
+Schizophrenia	8.0	60696526	rs1473594	3.33e-11	False	24	0
+Schizophrenia	8.0	89264751	rs7010876	6.51e-09	False	167	0
+Schizophrenia	8.0	111472014	rs36043959	4.07e-12	False	45	0
+Schizophrenia	8.0	143320118	rs58033671	8.649e-18	False	215	0
+Schizophrenia	9.0	84736303	rs1319017	7.82e-11	False	75	0
+Schizophrenia	9.0	101071090	rs10985817	1.02e-09	False	343	0
+Schizophrenia	10.0	18745105	rs7893279	4.8e-13	False	304	0
+Schizophrenia	10.0	104928914	rs12416331	7.09e-18	False	135	1
+Schizophrenia	11.0	24406419	rs1899543	1.23e-09	False	0	0
+Schizophrenia	11.0	30378559	rs1765142	1.13e-08	False	230	1
+Schizophrenia	11.0	46373311	rs7951870	2.99e-13	False	121	0
+Schizophrenia	11.0	57484660	rs7129727	1.47e-09	False	153	1
+Schizophrenia	11.0	65383755	rs58950470	2.07e-08	False	174	1
+Schizophrenia	11.0	113392994	rs2514218	2.42e-12	False	270	0
+Schizophrenia	11.0	124612932	rs12293670	1.7e-15	False	221	1
+Schizophrenia	11.0	130811356	rs35774874	1.97e-11	False	336	0
+Schizophrenia	11.0	132568255	rs2917569	3.11e-10	False	0	0
+Schizophrenia	11.0	133852684	rs4936215	5.32e-14	False	245	0
+Schizophrenia	12.0	2344960	rs2007044	5.63e-20	False	274	0
+Schizophrenia	12.0	23633432	rs1120004	1.42e-08	False	192	0
+Schizophrenia	12.0	39522907	rs10783624	5.44e-09	False	183	0
+Schizophrenia	12.0	57682956	rs61937595	3.28e-11	False	153	0
+Schizophrenia	12.0	92246786	rs4240748	2.15e-08	False	217	0
+Schizophrenia	12.0	103361112	rs36104021	7.31e-09	False	191	0
+Schizophrenia	12.0	110723245	rs4766428	2.68e-14	False	94	0
+Schizophrenia	12.0	123665113	rs2851447	5.55e-16	False	149	1
+Schizophrenia	13.0	79859456	rs9545047	1.15e-08	False	158	0
+Schizophrenia	14.0	30000405	rs1191551	4.12e-10	False	164	0
+Schizophrenia	14.0	33298731	rs34179565	8.879e-09	False	296	0
+Schizophrenia	14.0	59981768	rs150437760	4.58e-08	False	227	0
+Schizophrenia	14.0	72417326	rs2332700	1.52e-10	False	311	0
+Schizophrenia	14.0	99712032	rs35604463	1.66e-08	False	299	0
+Schizophrenia	14.0	104314182	rs10083370	3.44e-14	True	173	1
+Schizophrenia	15.0	40566759	rs56282503	2.3e-08	False	210	0
+Schizophrenia	15.0	47686081	rs281299	2.19e-08	False	10	0
+Schizophrenia	15.0	61854003	rs12898315	2.51e-09	False	308	0
+Schizophrenia	15.0	70589272	rs12148337	1.16e-08	False	273	0
+Schizophrenia	15.0	78894759	rs3743078	3.11e-12	False	162	1
+Schizophrenia	15.0	82456853	rs72749543	3.56e-08	False	187	1
+Schizophrenia	15.0	83254708	rs783540	8.45e-10	False	106	1
+Schizophrenia	15.0	85207825	rs12908161	9.41e-10	False	185	1
+Schizophrenia	15.0	91416550	rs17514846	2.55e-12	False	227	1
+Schizophrenia	16.0	7744180	rs12447542	1.44e-08	False	0	0
+Schizophrenia	16.0	9900057	rs7191183	6.31e-09	False	336	0
+Schizophrenia	16.0	13749265	rs7499750	4.24e-10	False	326	0
+Schizophrenia	16.0	24240725	rs198160	4.88e-08	False	265	0
+Schizophrenia	16.0	29966277	rs11646127	5.52e-13	False	122	1
+Schizophrenia	16.0	58545426	rs42945	2.25e-10	False	231	0
+Schizophrenia	16.0	63712719	rs17465671	4.14e-09	False	0	0
+Schizophrenia	16.0	68285847	rs1975802	3.56e-08	True	152	1
+Schizophrenia	16.0	71359066	rs2161711	4.22e-08	False	184	0
+Schizophrenia	17.0	2156453	rs7216638	4.59e-10	False	225	0
+Schizophrenia	17.0	17711270	rs4925114	2.64e-08	False	186	1
+Schizophrenia	17.0	19014831	rs66885728	1.47e-08	True	108	0
+Schizophrenia	17.0	78561603	rs7225476	4.86e-08	False	234	0
+Schizophrenia	18.0	52749216	rs5825114	5.027e-14	False	185	0
+Schizophrenia	18.0	77575613	rs56775891	2.03e-09	False	203	0
+Schizophrenia	19.0	11849736	rs72986630	8.09e-10	True	173	0
+Schizophrenia	19.0	19484295	rs2905432	6.62e-12	True	166	1
+Schizophrenia	19.0	30987423	rs2053079	1.82e-10	False	120	0
+Schizophrenia	19.0	50152142	rs7508148	4.06e-11	False	167	1
+Schizophrenia	20.0	20821005	rs6035706	7.24e-09	False	224	0
+Schizophrenia	20.0	37453194	rs6065094	7.91e-17	False	223	1
+Schizophrenia	22.0	39967430	rs5757730	1.76e-12	False	185	0
+Schizophrenia	22.0	42603814	rs6002655	2.15e-14	False	184	1
+Height (simulated tutorial)	1.0	1249187	rs12142199	2.05412e-08	False	21	0
+Height (simulated tutorial)	1.0	3770736	rs4582731	1.21311e-08	False	40	0
+Height (simulated tutorial)	1.0	7528669	rs1149331	1.58874e-08	False	33	0
+Height (simulated tutorial)	1.0	10492715	rs522280	1.33058e-09	False	20	0
+Height (simulated tutorial)	1.0	15192740	rs2807568	3.18149e-08	False	56	0
+Height (simulated tutorial)	1.0	16148600	rs28537253	1.64796e-12	False	23	1
+Height (simulated tutorial)	1.0	19201928	rs2230709	4.0369e-10	True	48	0
+Height (simulated tutorial)	1.0	20682348	rs35295448	2.93448e-17	False	47	0
+Height (simulated tutorial)	1.0	21883742	rs17421553	1.09801e-10	False	33	0
+Height (simulated tutorial)	1.0	24707669	rs6667695	8.66904e-09	False	34	0
+Height (simulated tutorial)	1.0	26129631	rs7513196	5.69436e-09	False	33	0
+Height (simulated tutorial)	1.0	27489958	rs34783584	2.10634e-10	False	30	0
+Height (simulated tutorial)	1.0	40732368	rs720793	2.52045e-10	False	29	1
+Height (simulated tutorial)	1.0	42451518	rs661428	1.7273e-09	False	13	0
+Height (simulated tutorial)	1.0	43245560	rs10493114	2.13881e-08	False	27	0
+Height (simulated tutorial)	1.0	44934194	rs35418918	1.34341e-09	False	27	0
+Height (simulated tutorial)	1.0	46476587	rs11211247	1.08874e-17	False	15	1
+Height (simulated tutorial)	1.0	50843776	rs2455637	2.69585e-12	False	15	0
+Height (simulated tutorial)	1.0	51458009	rs2487826	1.07354e-13	False	6	0
+Height (simulated tutorial)	1.0	53250213	rs2065477	8.49922e-17	False	20	1
+Height (simulated tutorial)	1.0	55852987	rs4926684	5.29385e-15	False	20	0
+Height (simulated tutorial)	1.0	63025942	rs2131925	4.39644e-12	False	21	0
+Height (simulated tutorial)	1.0	64713220	rs1908637	2.69147e-15	False	20	0
+Height (simulated tutorial)	1.0	66046117	rs10493380	2.65267e-09	False	27	0
+Height (simulated tutorial)	1.0	72959039	rs61771799	1.11108e-08	False	0	0
+Height (simulated tutorial)	1.0	75564734	rs1526507	1.54585e-08	False	15	0
+Height (simulated tutorial)	1.0	79737167	rs12035767	3.36182e-09	False	7	0
+Height (simulated tutorial)	1.0	85040070	rs115347546	2.74606e-11	True	35	1
+Height (simulated tutorial)	1.0	86380987	rs12136742	5.21838e-09	False	19	0
+Height (simulated tutorial)	1.0	89636947	rs4233337	1.02162e-13	False	30	1
+Height (simulated tutorial)	1.0	91161769	rs12031856	1.35476e-08	False	14	0
+Height (simulated tutorial)	1.0	91729290	rs72726264	5.03088e-09	False	23	0
+Height (simulated tutorial)	1.0	93215892	rs115899141	7.00811e-11	False	12	0
+Height (simulated tutorial)	1.0	94611300	rs2774920	1.65341e-08	False	38	0
+Height (simulated tutorial)	1.0	95651783	rs4949999	3.47838e-08	False	10	0
+Height (simulated tutorial)	1.0	97192551	rs12087375	3.73562e-08	False	22	0
+Height (simulated tutorial)	1.0	103012510	rs11164544	8.79207e-14	False	2	0
+Height (simulated tutorial)	1.0	105521728	rs10881231	4.34323e-16	False	0	0
+Height (simulated tutorial)	1.0	108099890	rs2149179	5.49519e-10	False	40	0
+Height (simulated tutorial)	1.0	110883569	rs3738752	1.69271e-17	False	44	0
+Height (simulated tutorial)	1.0	113214381	rs6537748	3.72487e-13	False	28	1
+Height (simulated tutorial)	1.0	114438951	rs1217401	1.34666e-08	False	35	0
+Height (simulated tutorial)	1.0	146716857	rs72691015	1.80143e-09	False	23	0
+Height (simulated tutorial)	1.0	150237624	rs2298161	1.35041e-10	False	20	0
+Height (simulated tutorial)	1.0	151493814	rs11204838	7.53128e-09	False	29	1
+Height (simulated tutorial)	1.0	152944594	rs3170863	1.02904e-26	False	29	0
+Height (simulated tutorial)	1.0	155914988	rs2016251	2.76034e-12	False	25	0
+Height (simulated tutorial)	1.0	157053726	rs11264614	1.89406e-09	False	46	0
+Height (simulated tutorial)	1.0	159233075	rs2427832	1.79388e-13	False	27	0
+Height (simulated tutorial)	1.0	161683136	rs11746	8.29473e-14	False	27	1
+Height (simulated tutorial)	1.0	165687205	rs4656461	1.50983e-08	False	30	0
+Height (simulated tutorial)	1.0	167495094	rs2862133	1.52801e-10	False	60	0
+Height (simulated tutorial)	1.0	169498975	rs6030	2.70368e-10	False	38	0
+Height (simulated tutorial)	1.0	171118840	rs2272797	1.55489e-16	False	48	0
+Height (simulated tutorial)	1.0	172170918	rs572802	1.13032e-15	False	19	0
+Height (simulated tutorial)	1.0	177902725	rs3813649	1.17257e-12	False	27	0
+Height (simulated tutorial)	1.0	179417347	rs6425558	4.79865e-09	False	18	0
+Height (simulated tutorial)	1.0	181012229	rs12134601	1.09555e-09	False	26	0
+Height (simulated tutorial)	1.0	183616926	rs1174657	6.29411e-13	False	23	0
+Height (simulated tutorial)	1.0	185048755	rs4651247	3.72295e-15	False	24	0
+Height (simulated tutorial)	1.0	191202747	rs1670770	8.22627e-11	False	0	0
+Height (simulated tutorial)	1.0	197555860	rs11583319	7.27142e-10	False	17	0
+Height (simulated tutorial)	1.0	198869514	rs10800598	2.5546e-08	False	12	0
+Height (simulated tutorial)	1.0	201041364	rs9427713	4.60718e-16	False	51	1
+Height (simulated tutorial)	1.0	202244522	rs3010084	1.73255e-15	False	29	0
+Height (simulated tutorial)	1.0	204318983	rs4951067	5.89912e-09	False	51	0
+Height (simulated tutorial)	1.0	205152932	rs6682229	1.6704e-10	False	40	1
+Height (simulated tutorial)	1.0	206305229	rs76039482	1.71689e-09	False	5	0
+Height (simulated tutorial)	1.0	207569884	rs10779277	1.28641e-10	False	20	1
+Height (simulated tutorial)	1.0	208424980	rs17012244	1.3812e-18	False	48	0
+Height (simulated tutorial)	1.0	210100459	rs1040423	6.74062e-16	False	15	0
+Height (simulated tutorial)	1.0	212881939	rs6695772	5.2336e-12	False	37	1
+Height (simulated tutorial)	1.0	217073301	rs2576202	1.18808e-08	False	47	0
+Height (simulated tutorial)	1.0	218858734	rs1481363	1.84178e-09	False	33	0
+Height (simulated tutorial)	1.0	225577648	rs12134158	3.69138e-17	False	24	0
+Height (simulated tutorial)	1.0	227483194	rs115058698	6.05632e-09	False	17	0
+Height (simulated tutorial)	1.0	230355248	rs11122469	4.14222e-08	False	32	0
+Height (simulated tutorial)	1.0	232811111	rs2184345	1.04135e-10	False	39	0
+Height (simulated tutorial)	1.0	234627055	rs271748	2.1558e-08	False	46	0
+Height (simulated tutorial)	1.0	238045995	rs2275694	4.33645e-08	False	0	0
+Height (simulated tutorial)	1.0	238889951	rs12744326	4.49382e-15	False	0	0
+Height (simulated tutorial)	1.0	239528259	rs66588531	2.22007e-08	False	0	0
+Height (simulated tutorial)	1.0	246870295	rs7532929	8.85446e-09	False	27	0
+Height (simulated tutorial)	1.0	248087918	rs4925777	3.74955e-08	False	30	0
+Height (simulated tutorial)	2.0	2261350	rs34310978	6.74517e-09	False	17	0
+Height (simulated tutorial)	2.0	3258627	rs2694067	2.11238e-08	True	35	0
+Height (simulated tutorial)	2.0	3800383	rs357969	1.33759e-11	False	45	0
+Height (simulated tutorial)	2.0	4493374	rs633168	1.8593e-09	False	0	0
+Height (simulated tutorial)	2.0	10805974	rs10929690	6.16581e-10	False	38	0
+Height (simulated tutorial)	2.0	12127265	rs12623991	2.2541e-08	False	36	0
+Height (simulated tutorial)	2.0	13897844	rs1900294	1.02953e-08	False	0	0
+Height (simulated tutorial)	2.0	17466709	rs1879208	1.34168e-18	False	10	0
+Height (simulated tutorial)	2.0	18516044	rs1996365	3.18831e-08	False	43	0
+Height (simulated tutorial)	2.0	21231524	rs676210	4.69692e-15	False	34	0
+Height (simulated tutorial)	2.0	23122433	rs10167217	1.22438e-10	False	20	0
+Height (simulated tutorial)	2.0	24627074	rs10460551	7.046859999999999e-20	False	16	1
+Height (simulated tutorial)	2.0	26080394	rs34579290	7.28937e-15	False	18	0
+Height (simulated tutorial)	2.0	33971813	rs12995445	4.61822e-16	False	34	0
+Height (simulated tutorial)	2.0	37356992	rs72860775	2.57383e-10	False	29	0
+Height (simulated tutorial)	2.0	40917564	rs10490261	2.57761e-12	False	18	0
+Height (simulated tutorial)	2.0	41950726	rs12994941	4.66285e-09	False	18	0
+Height (simulated tutorial)	2.0	49292561	rs11125205	7.23198e-11	False	21	0
+Height (simulated tutorial)	2.0	50824331	rs12713117	7.5091e-10	False	0	0
+Height (simulated tutorial)	2.0	52683797	rs34618108	1.45938e-08	False	0	0
+Height (simulated tutorial)	2.0	54545593	rs843632	3.4076e-09	False	23	0
+Height (simulated tutorial)	2.0	56926935	rs13389774	8.26717e-09	False	10	0
+Height (simulated tutorial)	2.0	59302877	rs887912	4.75369e-15	False	0	0
+Height (simulated tutorial)	2.0	60725451	rs7606173	1.02523e-11	False	38	0
+Height (simulated tutorial)	2.0	62733253	rs11676567	4.41983e-14	True	27	0
+Height (simulated tutorial)	2.0	66567896	rs2860235	7.10185e-09	False	0	0
+Height (simulated tutorial)	2.0	70047497	rs74447281	1.75226e-09	False	16	0
+Height (simulated tutorial)	2.0	70569151	rs1871237	1.0794e-12	False	21	0
+Height (simulated tutorial)	2.0	73679280	rs6546838	1.30814e-16	False	17	1
+Height (simulated tutorial)	2.0	76839833	rs7582080	5.98566e-10	False	0	0
+Height (simulated tutorial)	2.0	78849433	rs1239092	1.6292699999999998e-20	False	9	0
+Height (simulated tutorial)	2.0	80408461	rs72815708	2.26384e-08	False	39	0
+Height (simulated tutorial)	2.0	81537624	rs4369886	1.78415e-09	False	1	0
+Height (simulated tutorial)	2.0	82394391	rs10190097	1.59438e-08	False	0	0
+Height (simulated tutorial)	2.0	83004733	rs7558379	2.92473e-08	False	0	0
+Height (simulated tutorial)	2.0	86031130	rs59728891	1.21425e-12	False	31	1
+Height (simulated tutorial)	2.0	86826508	rs11127047	4.57908e-09	False	16	0
+Height (simulated tutorial)	2.0	98853173	rs11889349	4.65924e-11	False	27	0
+Height (simulated tutorial)	2.0	101368376	rs964582	2.31209e-09	False	32	0
+Height (simulated tutorial)	2.0	103009537	rs4851004	1.13932e-08	False	29	0
+Height (simulated tutorial)	2.0	106127916	rs72819762	5.89542e-10	False	36	0
+Height (simulated tutorial)	2.0	108877062	rs4141932	8.88173e-12	False	17	0
+Height (simulated tutorial)	2.0	110369649	rs28800201	1.84539e-08	False	8	0
+Height (simulated tutorial)	2.0	112665201	rs17174870	9.13979e-13	False	27	0
+Height (simulated tutorial)	2.0	115549371	rs12612537	1.83366e-08	False	0	0
+Height (simulated tutorial)	2.0	117244854	rs13001720	1.31666e-13	False	0	0
+Height (simulated tutorial)	2.0	129426740	rs3896697	9.29414e-15	False	22	0
+Height (simulated tutorial)	2.0	130153512	rs12470430	4.71324e-09	False	4	0
+Height (simulated tutorial)	2.0	137447151	rs6715838	1.60038e-08	False	3	0
+Height (simulated tutorial)	2.0	138793328	rs10928640	4.82478e-11	False	18	0
+Height (simulated tutorial)	2.0	141795194	rs73962112	4.46037e-09	False	0	0
+Height (simulated tutorial)	2.0	145931462	rs2457390	2.31141e-19	False	2	0
+Height (simulated tutorial)	2.0	152206630	rs16829969	2.66564e-11	False	18	0
+Height (simulated tutorial)	2.0	158997962	rs1263154	3.8342e-09	False	19	0
+Height (simulated tutorial)	2.0	161781773	rs1722636	1.9166e-11	False	16	0
+Height (simulated tutorial)	2.0	163063359	rs77457066	2.06698e-09	False	17	0
+Height (simulated tutorial)	2.0	166290394	rs6758162	2.4166500000000003e-19	False	19	0
+Height (simulated tutorial)	2.0	168595402	rs72876867	2.48882e-09	False	22	0
+Height (simulated tutorial)	2.0	169654055	rs829950	3.50748e-09	False	47	0
+Height (simulated tutorial)	2.0	173107486	rs11688652	1.41614e-12	False	26	0
+Height (simulated tutorial)	2.0	174805967	rs75263037	2.09281e-09	False	24	0
+Height (simulated tutorial)	2.0	178611242	rs749208	9.08692e-09	False	19	0
+Height (simulated tutorial)	2.0	179713073	rs1387472	9.74462e-09	False	47	0
+Height (simulated tutorial)	2.0	186760679	rs12464794	2.7391e-11	False	13	0
+Height (simulated tutorial)	2.0	188408848	rs7594359	2.66205e-09	False	15	0
+Height (simulated tutorial)	2.0	200128358	rs11692189	3.7093e-08	False	7	0
+Height (simulated tutorial)	2.0	200726221	rs17529746	6.88767e-14	False	10	0
+Height (simulated tutorial)	2.0	202010626	rs7573529	7.54606e-09	False	18	1
+Height (simulated tutorial)	2.0	203469588	rs13432396	3.9483e-08	False	13	1
+Height (simulated tutorial)	2.0	204849533	rs59575497	1.324e-08	False	31	0
+Height (simulated tutorial)	2.0	205768769	rs114588172	1.40145e-12	False	0	0
+Height (simulated tutorial)	2.0	206577114	rs3771045	1.70253e-09	False	46	0
+Height (simulated tutorial)	2.0	207824384	rs11903403	3.52184e-10	False	25	0
+Height (simulated tutorial)	2.0	212587321	rs13002712	6.15717e-10	False	0	0
+Height (simulated tutorial)	2.0	214017736	rs3754590	6.87697e-10	False	19	0
+Height (simulated tutorial)	2.0	216111428	rs10165841	4.3541e-09	False	31	0
+Height (simulated tutorial)	2.0	216895736	rs12467676	1.50524e-10	False	43	0
+Height (simulated tutorial)	2.0	219555262	rs1344642	8.00348e-09	False	23	0
+Height (simulated tutorial)	2.0	222977035	rs4674634	5.93597e-15	False	33	0
+Height (simulated tutorial)	2.0	227886925	rs3752896	4.29582e-13	False	44	0
+Height (simulated tutorial)	2.0	229317831	rs11689857	4.24629e-09	False	1	0
+Height (simulated tutorial)	2.0	230370114	rs10197959	3.14285e-09	False	17	0
+Height (simulated tutorial)	2.0	231839629	rs3111761	2.71319e-09	False	29	0
+Height (simulated tutorial)	2.0	232367511	rs12987949	1.29422e-09	False	25	0
+Height (simulated tutorial)	2.0	233636922	rs11893358	1.26251e-08	False	36	0
+Height (simulated tutorial)	2.0	235318425	rs4663405	2.00621e-08	False	35	0
+Height (simulated tutorial)	2.0	236104982	rs10929105	1.65626e-11	False	33	0
+Height (simulated tutorial)	2.0	238990388	rs3210400	5.81976e-17	False	29	1
+Height (simulated tutorial)	2.0	240500173	rs10187580	8.7401e-13	False	43	0
+Height (simulated tutorial)	2.0	241953251	rs4676010	2.92736e-08	False	33	0
+Height (simulated tutorial)	3.0	1722508	rs6777697	3.3467e-14	False	0	0
+Height (simulated tutorial)	3.0	3076443	rs6803232	3.31428e-08	False	74	0
+Height (simulated tutorial)	3.0	4905105	rs7644783	2.43984e-09	False	59	0
+Height (simulated tutorial)	3.0	6276931	rs4686027	5.80547e-12	False	0	0
+Height (simulated tutorial)	3.0	7372022	rs75138586	2.31177e-09	False	0	0
+Height (simulated tutorial)	3.0	8783072	rs56112390	1.49324e-11	False	53	0
+Height (simulated tutorial)	3.0	11292653	rs35975472	4.21727e-10	False	20	0
+Height (simulated tutorial)	3.0	14631657	rs75033163	4.98031e-08	False	67	0
+Height (simulated tutorial)	3.0	17320397	rs2733481	1.14291e-10	False	17	0
+Height (simulated tutorial)	3.0	19981555	rs2364515	6.71989e-09	False	28	1
+Height (simulated tutorial)	3.0	26794261	rs6797537	1.94846e-09	False	16	0
+Height (simulated tutorial)	3.0	30803040	rs795443	8.0616099999999995e-25	False	33	0
+Height (simulated tutorial)	3.0	39226127	rs3732383	6.74929e-11	False	26	0
+Height (simulated tutorial)	3.0	42141470	rs12715376	3.80622e-08	True	25	0
+Height (simulated tutorial)	3.0	45222258	rs57815892	4.16257e-10	False	27	0
+Height (simulated tutorial)	3.0	53393844	rs12633047	7.62315e-13	False	19	0
+Height (simulated tutorial)	3.0	55179297	rs1675969	4.47462e-08	False	33	0
+Height (simulated tutorial)	3.0	55744160	rs937311	2.62438e-08	False	29	0
+Height (simulated tutorial)	3.0	57571353	rs4682004	4.05964e-14	False	15	0
+Height (simulated tutorial)	3.0	58640105	rs73082231	2.84349e-11	False	19	0
+Height (simulated tutorial)	3.0	61184479	rs11714760	2.51981e-08	False	24	0
+Height (simulated tutorial)	3.0	64062205	rs13075585	9.60181e-09	False	35	0
+Height (simulated tutorial)	3.0	68907118	rs9846010	6.92739e-14	False	12	0
+Height (simulated tutorial)	3.0	69521765	rs1498836	1.78808e-10	False	33	0
+Height (simulated tutorial)	3.0	74515213	rs7432667	4.26078e-09	False	0	0
+Height (simulated tutorial)	3.0	75452676	rs62259097	7.46588e-09	False	7	0
+Height (simulated tutorial)	3.0	76255874	rs17788458	2.5311e-16	False	10	0
+Height (simulated tutorial)	3.0	81819040	rs11711331	4.27803e-14	False	8	0
+Height (simulated tutorial)	3.0	82744653	rs7630174	5.55385e-21	False	0	0
+Height (simulated tutorial)	3.0	94042656	rs77513878	4.23574e-08	False	7	0
+Height (simulated tutorial)	3.0	97904673	rs13084481	1.42028e-14	False	31	1
+Height (simulated tutorial)	3.0	99906250	rs9825882	2.3696e-08	False	11	0
+Height (simulated tutorial)	3.0	107153088	rs7630522	6.38288e-09	False	20	0
+Height (simulated tutorial)	3.0	108611057	rs4522770	6.31003e-11	False	26	0
+Height (simulated tutorial)	3.0	112851915	rs35593191	3.38538e-11	False	18	0
+Height (simulated tutorial)	3.0	114023283	rs17607268	4.29585e-15	False	32	0
+Height (simulated tutorial)	3.0	115144142	rs7650434	1.36084e-10	False	25	0
+Height (simulated tutorial)	3.0	120976051	rs17249244	1.99643e-11	False	11	0
+Height (simulated tutorial)	3.0	122131777	rs3828362	2.56641e-14	False	35	1
+Height (simulated tutorial)	3.0	123961088	rs4234217	1.55185e-11	False	18	0
+Height (simulated tutorial)	3.0	125067174	rs9289250	4.14837e-09	False	22	0
+Height (simulated tutorial)	3.0	131986969	rs2068458	2.11684e-11	False	19	0
+Height (simulated tutorial)	3.0	140903290	rs72987308	5.66037e-11	False	28	0
+Height (simulated tutorial)	3.0	142244592	rs9843148	3.8885600000000003e-26	False	17	0
+Height (simulated tutorial)	3.0	145225950	rs1964561	1.74285e-13	False	8	0
+Height (simulated tutorial)	3.0	146488309	rs9289731	2.62324e-10	False	13	0
+Height (simulated tutorial)	3.0	148578518	rs871961	1.15758e-09	False	34	0
+Height (simulated tutorial)	3.0	152677226	rs2140302	2.52965e-09	False	20	0
+Height (simulated tutorial)	3.0	154040379	rs13326460	2.68522e-08	False	13	0
+Height (simulated tutorial)	3.0	156505652	rs62277141	2.23605e-08	False	12	0
+Height (simulated tutorial)	3.0	163128988	rs73160062	4.79132e-11	False	0	0
+Height (simulated tutorial)	3.0	163817707	rs73170734	3.17009e-10	False	0	0
+Height (simulated tutorial)	3.0	164760771	rs12381230	1.29947e-13	False	1	0
+Height (simulated tutorial)	3.0	168439358	rs6444823	1.68812e-16	False	9	0
+Height (simulated tutorial)	3.0	171216271	rs9840327	3.02859e-09	False	34	0
+Height (simulated tutorial)	3.0	173004184	rs6772821	4.04077e-09	False	13	0
+Height (simulated tutorial)	3.0	184633247	rs4686879	1.37512e-13	False	36	1
+Height (simulated tutorial)	3.0	189577799	rs79479990	5.90508e-09	False	37	0
+Height (simulated tutorial)	3.0	194180743	rs4974521	3.95477e-11	False	46	0
+Height (simulated tutorial)	3.0	195235695	rs35192829	1.6099099999999999e-22	False	10	0
+Height (simulated tutorial)	3.0	197041685	rs28637669	3.46376e-09	False	25	0
+Height (simulated tutorial)	4.0	6097363	rs12649627	8.38973e-09	False	58	0
+Height (simulated tutorial)	4.0	7714858	rs60425287	2.54539e-11	False	51	0
+Height (simulated tutorial)	4.0	9809859	rs12500086	1.06641e-08	False	25	0
+Height (simulated tutorial)	4.0	11352031	rs917684	8.61083e-09	False	30	0
+Height (simulated tutorial)	4.0	14471255	rs218821	1.82797e-11	False	11	0
+Height (simulated tutorial)	4.0	16031448	rs884718	1.95096e-08	False	43	0
+Height (simulated tutorial)	4.0	17756273	rs4279206	1.64214e-09	False	17	0
+Height (simulated tutorial)	4.0	18537268	rs66461394	1.04877e-11	False	6	0
+Height (simulated tutorial)	4.0	20600314	rs6820674	1.09082e-12	False	32	0
+Height (simulated tutorial)	4.0	23953865	rs4336216	9.57266e-11	False	27	0
+Height (simulated tutorial)	4.0	24793605	rs6856668	2.83788e-08	False	37	0
+Height (simulated tutorial)	4.0	27592042	rs28445882	1.87613e-11	False	9	0
+Height (simulated tutorial)	4.0	29761008	rs28738669	1.067e-09	False	0	0
+Height (simulated tutorial)	4.0	31662767	rs1397502	7.68057e-14	False	0	0
+Height (simulated tutorial)	4.0	38197487	rs2380958	1.25998e-10	False	33	0
+Height (simulated tutorial)	4.0	40718856	rs6821919	1.30589e-09	False	37	0
+Height (simulated tutorial)	4.0	57180563	rs59615456	2.7884e-13	False	35	1
+Height (simulated tutorial)	4.0	59117362	rs6825884	4.23698e-12	False	0	0
+Height (simulated tutorial)	4.0	60773527	rs1364898	1.11862e-08	False	0	0
+Height (simulated tutorial)	4.0	62013364	rs13128004	8.98208e-10	False	0	0
+Height (simulated tutorial)	4.0	69960387	rs6600879	1.46655e-17	False	8	1
+Height (simulated tutorial)	4.0	72812446	rs1356877	1.45707e-11	False	13	0
+Height (simulated tutorial)	4.0	73630370	rs79614727	1.02748e-11	False	21	0
+Height (simulated tutorial)	4.0	77175743	rs717239	1.11344e-11	False	27	1
+Height (simulated tutorial)	4.0	78889803	rs12504644	4.77797e-12	False	29	0
+Height (simulated tutorial)	4.0	80023990	rs1598341	1.37395e-11	False	13	0
+Height (simulated tutorial)	4.0	80685250	rs6851575	1.68016e-13	False	11	0
+Height (simulated tutorial)	4.0	89068455	rs17731799	4.45632e-09	False	45	0
+Height (simulated tutorial)	4.0	95474562	rs10025074	4.62481e-24	False	24	0
+Height (simulated tutorial)	4.0	104473391	rs13146404	6.01843e-09	False	15	0
+Height (simulated tutorial)	4.0	106369285	rs12108622	2.1805e-09	False	43	0
+Height (simulated tutorial)	4.0	109444790	rs59755659	4.43292e-14	False	21	0
+Height (simulated tutorial)	4.0	110693569	rs11721403	3.8567e-18	False	26	1
+Height (simulated tutorial)	4.0	115915617	rs11725345	2.74912e-15	False	6	0
+Height (simulated tutorial)	4.0	119941512	rs10518312	2.2264e-10	False	23	1
+Height (simulated tutorial)	4.0	121019286	rs7660900	1.46554e-08	False	14	0
+Height (simulated tutorial)	4.0	123783194	rs308382	3.89356e-09	False	22	0
+Height (simulated tutorial)	4.0	126259606	rs2663273	9.17744e-12	False	3	0
+Height (simulated tutorial)	4.0	127283300	rs6534554	2.0962e-09	False	0	0
+Height (simulated tutorial)	4.0	128392739	rs7678926	7.32913e-12	False	10	0
+Height (simulated tutorial)	4.0	129339672	rs17013277	3.94676e-10	False	22	0
+Height (simulated tutorial)	4.0	130380405	rs603319	1.92132e-16	False	10	0
+Height (simulated tutorial)	4.0	131963602	rs17505382	3.17234e-10	False	0	0
+Height (simulated tutorial)	4.0	136085497	rs10013906	8.74981e-20	False	0	0
+Height (simulated tutorial)	4.0	138917308	rs4863750	2.93407e-15	False	11	0
+Height (simulated tutorial)	4.0	140929111	rs2048382	5.74259e-10	False	33	0
+Height (simulated tutorial)	4.0	141993397	rs4632742	3.05081e-08	False	36	0
+Height (simulated tutorial)	4.0	145606021	rs13106160	1.05514e-25	False	25	0
+Height (simulated tutorial)	4.0	148517273	rs62342650	2.29257e-09	False	18	0
+Height (simulated tutorial)	4.0	149372781	rs13111300	6.91926e-09	False	18	0
+Height (simulated tutorial)	4.0	151772410	rs10012720	4.3662e-11	False	9	0
+Height (simulated tutorial)	4.0	154993990	rs7690945	3.99616e-10	False	29	0
+Height (simulated tutorial)	4.0	156510036	rs1483035	6.09687e-09	False	32	0
+Height (simulated tutorial)	4.0	166350400	rs13131514	9.66268e-10	False	14	0
+Height (simulated tutorial)	4.0	169049597	rs7699520	9.718740000000002e-24	False	23	0
+Height (simulated tutorial)	4.0	180855039	rs11734639	3.32644e-13	False	0	0
+Height (simulated tutorial)	4.0	184508121	rs67615027	4.34834e-08	False	26	0
+Height (simulated tutorial)	4.0	185015836	rs12639969	3.0838e-09	False	43	0
+Height (simulated tutorial)	4.0	185668375	rs755535	3.39686e-17	False	38	1
+Height (simulated tutorial)	4.0	186541301	rs61753946	5.49395e-09	False	47	0
+Height (simulated tutorial)	5.0	174240	rs6875054	7.21085e-27	False	18	0
+Height (simulated tutorial)	5.0	1553239	rs2963271	2.05948e-12	False	41	0
+Height (simulated tutorial)	5.0	2808180	rs12523272	4.21012e-13	False	0	0
+Height (simulated tutorial)	5.0	5124549	rs16874791	2.00262e-08	False	39	0
+Height (simulated tutorial)	5.0	5737730	rs35008313	8.48144e-09	False	29	0
+Height (simulated tutorial)	5.0	6665781	rs824811	1.65452e-12	False	39	0
+Height (simulated tutorial)	5.0	7497783	rs4333285	3.05428e-09	False	22	0
+Height (simulated tutorial)	5.0	8935206	rs7735641	1.84849e-10	False	21	0
+Height (simulated tutorial)	5.0	10355050	rs35867401	4.62718e-08	False	35	0
+Height (simulated tutorial)	5.0	13779743	rs1502050	4.35558e-14	False	37	0
+Height (simulated tutorial)	5.0	15582005	rs1978633	1.51739e-13	False	2	0
+Height (simulated tutorial)	5.0	17720338	rs4389721	5.10125e-15	False	8	0
+Height (simulated tutorial)	5.0	18256542	rs2962164	1.1258e-10	False	0	0
+Height (simulated tutorial)	5.0	19448013	rs622151	2.80643e-11	False	0	0
+Height (simulated tutorial)	5.0	22141602	rs2963653	1.29972e-10	False	9	0
+Height (simulated tutorial)	5.0	26826871	rs985537	1.96359e-08	False	0	0
+Height (simulated tutorial)	5.0	28286502	rs1393097	8.20603e-09	False	0	0
+Height (simulated tutorial)	5.0	28930902	rs13167137	1.7494e-10	False	0	0
+Height (simulated tutorial)	5.0	31385996	rs550353	4.12496e-10	False	33	0
+Height (simulated tutorial)	5.0	38203031	rs6451374	2.20001e-08	False	26	0
+Height (simulated tutorial)	5.0	39164823	rs17380263	3.02581e-10	False	34	0
+Height (simulated tutorial)	5.0	40265904	rs1348612	5.98871e-10	False	15	0
+Height (simulated tutorial)	5.0	40927226	rs28860325	8.73619e-12	False	30	0
+Height (simulated tutorial)	5.0	50053666	rs78270338	3.68276e-08	False	15	0
+Height (simulated tutorial)	5.0	51193222	rs115332448	7.52424e-09	False	0	0
+Height (simulated tutorial)	5.0	58313474	rs35924466	2.11486e-08	False	32	0
+Height (simulated tutorial)	5.0	60513566	rs34634	3.71042e-14	False	10	0
+Height (simulated tutorial)	5.0	66017761	rs10057223	9.30242e-09	False	22	0
+Height (simulated tutorial)	5.0	75232796	rs116222550	4.20476e-09	False	21	0
+Height (simulated tutorial)	5.0	79015581	rs6869496	3.21806e-09	False	50	0
+Height (simulated tutorial)	5.0	81504841	rs1543911	5.48448e-15	False	29	1
+Height (simulated tutorial)	5.0	83893254	rs11951654	3.3916e-08	False	21	0
+Height (simulated tutorial)	5.0	88064012	rs618741	1.96661e-09	False	17	0
+Height (simulated tutorial)	5.0	96384880	rs6867338	3.84763e-11	False	26	0
+Height (simulated tutorial)	5.0	102100525	rs187717	5.62078e-09	False	12	0
+Height (simulated tutorial)	5.0	105882293	rs4551054	6.18778e-12	False	0	0
+Height (simulated tutorial)	5.0	108953409	rs415843	1.75631e-08	False	11	0
+Height (simulated tutorial)	5.0	114354070	rs10900699	8.31148e-11	False	8	0
+Height (simulated tutorial)	5.0	124558000	rs35042359	7.154e-14	False	15	0
+Height (simulated tutorial)	5.0	125941688	rs7705738	1.05548e-09	False	39	1
+Height (simulated tutorial)	5.0	131819921	rs2070729	7.79101e-10	False	48	0
+Height (simulated tutorial)	5.0	132663783	rs6872323	3.18472e-10	False	40	0
+Height (simulated tutorial)	5.0	138380480	rs2882792	1.11724e-23	False	13	1
+Height (simulated tutorial)	5.0	140798639	rs17208397	1.47018e-12	False	47	1
+Height (simulated tutorial)	5.0	146944239	rs10075595	3.36507e-08	False	19	1
+Height (simulated tutorial)	5.0	150087245	rs252160	4.24422e-11	False	20	0
+Height (simulated tutorial)	5.0	151771852	rs4958532	2.15588e-08	False	9	0
+Height (simulated tutorial)	5.0	153429459	rs690592	8.17727e-09	False	22	0
+Height (simulated tutorial)	5.0	156390297	rs6882076	4.47183e-09	False	22	0
+Height (simulated tutorial)	5.0	162255652	rs11954470	1.26068e-13	False	9	0
+Height (simulated tutorial)	5.0	167320009	rs1363203	9.60471e-15	False	27	0
+Height (simulated tutorial)	5.0	168646778	rs35479935	5.33181e-11	False	29	0
+Height (simulated tutorial)	5.0	175029274	rs870258	2.10086e-12	False	45	0
+Height (simulated tutorial)	5.0	178459426	rs17078991	4.16304e-08	False	43	1
+Height (simulated tutorial)	6.0	411064	rs872071	2.58068e-10	False	41	0
+Height (simulated tutorial)	6.0	6901659	rs2326837	3.28444e-11	False	52	0
+Height (simulated tutorial)	6.0	8438674	rs4960415	2.48664e-12	False	20	0
+Height (simulated tutorial)	6.0	13336030	rs36102538	2.11078e-11	False	29	0
+Height (simulated tutorial)	6.0	14716037	rs1267495	4.96532e-08	False	15	0
+Height (simulated tutorial)	6.0	18697259	rs9283929	9.31716e-13	False	18	0
+Height (simulated tutorial)	6.0	19841388	rs7765893	3.5294e-09	False	38	0
+Height (simulated tutorial)	6.0	20739907	rs4710942	3.52864e-10	False	17	0
+Height (simulated tutorial)	6.0	29806901	rs407238	4.09006e-166	False	29	1
+Height (simulated tutorial)	6.0	35675696	rs9380529	1.02176e-11	False	29	0
+Height (simulated tutorial)	6.0	36996773	rs708017	6.60017e-09	False	40	1
+Height (simulated tutorial)	6.0	40371918	rs1579557	3.3295e-09	False	21	0
+Height (simulated tutorial)	6.0	41187510	rs7763966	4.60852e-09	False	38	1
+Height (simulated tutorial)	6.0	41814760	rs2249703	7.10167e-09	True	35	1
+Height (simulated tutorial)	6.0	42697785	rs9462820	2.32758e-08	False	33	0
+Height (simulated tutorial)	6.0	46684222	rs1805017	9.99446e-14	False	29	0
+Height (simulated tutorial)	6.0	50788262	rs72884921	6.04348e-11	False	0	0
+Height (simulated tutorial)	6.0	51826281	rs1321507	3.395e-11	False	28	0
+Height (simulated tutorial)	6.0	54156488	rs4142450	1.81491e-13	False	22	1
+Height (simulated tutorial)	6.0	55217813	rs2102164	4.76241e-10	False	0	0
+Height (simulated tutorial)	6.0	58014710	rs13211411	7.53563e-23	False	0	0
+Height (simulated tutorial)	6.0	62398854	rs742781	2.3912600000000002e-32	False	0	0
+Height (simulated tutorial)	6.0	64694354	rs4710457	3.02182e-20	False	9	0
+Height (simulated tutorial)	6.0	66021416	rs6937429	2.19125e-09	False	14	0
+Height (simulated tutorial)	6.0	67484419	rs12206424	1.31827e-09	False	0	0
+Height (simulated tutorial)	6.0	68037285	rs4256414	2.10859e-09	False	0	0
+Height (simulated tutorial)	6.0	68605740	rs72889954	1.05582e-08	False	0	0
+Height (simulated tutorial)	6.0	71067467	rs1418612	2.1931e-08	False	26	0
+Height (simulated tutorial)	6.0	74325257	rs628038	1.01413e-10	False	25	1
+Height (simulated tutorial)	6.0	75833876	rs240722	9.92743e-10	False	25	0
+Height (simulated tutorial)	6.0	78501648	rs77982951	2.67906e-08	False	0	0
+Height (simulated tutorial)	6.0	79400375	rs496269	1.47485e-13	False	15	0
+Height (simulated tutorial)	6.0	81589005	rs560400	2.65508e-10	False	6	0
+Height (simulated tutorial)	6.0	89293745	rs12527253	1.39615e-12	False	29	0
+Height (simulated tutorial)	6.0	90067715	rs1782	5.96039e-10	False	28	0
+Height (simulated tutorial)	6.0	103515714	rs763232	9.78167e-13	False	0	0
+Height (simulated tutorial)	6.0	109748506	rs61318425	1.40351e-19	False	21	1
+Height (simulated tutorial)	6.0	112457390	rs2032567	3.10236e-08	False	28	0
+Height (simulated tutorial)	6.0	115816271	rs4945541	1.2503199999999998e-20	False	7	0
+Height (simulated tutorial)	6.0	119049344	rs1688615	2.23987e-08	False	17	0
+Height (simulated tutorial)	6.0	121426900	rs7751291	2.18213e-21	False	12	0
+Height (simulated tutorial)	6.0	122852318	rs2116060	3.02841e-09	False	15	0
+Height (simulated tutorial)	6.0	124834732	rs62435063	1.27652e-10	False	23	0
+Height (simulated tutorial)	6.0	129407198	rs17056792	1.22702e-09	False	18	0
+Height (simulated tutorial)	6.0	134357523	rs2811672	4.21525e-10	False	40	0
+Height (simulated tutorial)	6.0	135231513	rs2281038	3.39864e-15	False	27	1
+Height (simulated tutorial)	6.0	140936121	rs79188075	5.63554e-11	False	0	0
+Height (simulated tutorial)	6.0	142355290	rs4896568	5.01777e-09	False	21	0
+Height (simulated tutorial)	6.0	144289690	rs2092894	2.67398e-10	False	32	0
+Height (simulated tutorial)	6.0	147149591	rs9399585	3.11245e-15	False	30	0
+Height (simulated tutorial)	6.0	148485029	rs78924503	2.8269e-09	False	37	0
+Height (simulated tutorial)	6.0	150067675	rs10872646	3.15313e-15	True	16	1
+Height (simulated tutorial)	6.0	153003011	rs1923545	6.12369e-11	False	20	0
+Height (simulated tutorial)	6.0	159568223	rs659906	8.04855e-09	False	38	0
+Height (simulated tutorial)	6.0	162001436	rs992037	1.39407e-09	False	35	0
+Height (simulated tutorial)	6.0	166636119	rs12663423	1.6993400000000002e-18	False	32	0
+Height (simulated tutorial)	6.0	167716043	rs2981973	3.05094e-11	False	32	0
+Height (simulated tutorial)	6.0	170395841	rs4710847	6.89555e-09	False	27	0
+Height (simulated tutorial)	7.0	1152615	rs76001997	5.81066e-14	False	32	1
+Height (simulated tutorial)	7.0	3251558	rs4398802	1.68086e-16	False	40	0
+Height (simulated tutorial)	7.0	4900341	rs17135247	1.09961e-10	False	36	0
+Height (simulated tutorial)	7.0	6077476	rs2302332	1.80784e-09	False	24	1
+Height (simulated tutorial)	7.0	9073940	rs6959833	2.48331e-10	False	0	0
+Height (simulated tutorial)	7.0	10957253	rs6953367	4.86445e-09	False	12	0
+Height (simulated tutorial)	7.0	15156970	rs12670759	2.0469e-09	False	0	0
+Height (simulated tutorial)	7.0	28814839	rs2299115	1.88863e-08	False	29	0
+Height (simulated tutorial)	7.0	29885841	rs174940	3.76819e-08	False	12	0
+Height (simulated tutorial)	7.0	32529936	rs1584614	4.43524e-08	True	33	0
+Height (simulated tutorial)	7.0	34906176	rs10264671	1.69407e-10	False	22	0
+Height (simulated tutorial)	7.0	35540520	rs996021	2.96682e-09	False	28	0
+Height (simulated tutorial)	7.0	38337801	rs71535798	5.75878e-10	False	24	0
+Height (simulated tutorial)	7.0	41226502	rs29538	1.54703e-08	False	22	0
+Height (simulated tutorial)	7.0	41893570	rs17777080	4.07594e-08	False	35	0
+Height (simulated tutorial)	7.0	44135575	rs11768607	2.21405e-11	False	26	0
+Height (simulated tutorial)	7.0	45497973	rs34441298	2.18134e-08	False	25	0
+Height (simulated tutorial)	7.0	49632815	rs12718208	1.15985e-09	False	24	0
+Height (simulated tutorial)	7.0	50644812	rs6593017	1.83927e-11	False	21	1
+Height (simulated tutorial)	7.0	54253488	rs10277483	4.03264e-11	False	5	0
+Height (simulated tutorial)	7.0	57266294	rs73118393	1.07733e-10	False	0	0
+Height (simulated tutorial)	7.0	73832674	rs917224	2.38272e-11	False	21	0
+Height (simulated tutorial)	7.0	76215147	rs55803891	2.73483e-12	False	15	1
+Height (simulated tutorial)	7.0	77416439	rs6465825	1.48585e-10	False	26	0
+Height (simulated tutorial)	7.0	78915629	rs6954793	1.19862e-11	False	18	0
+Height (simulated tutorial)	7.0	83742266	rs2372031	1.8438e-08	False	16	0
+Height (simulated tutorial)	7.0	86261977	rs802463	4.79397e-12	False	12	0
+Height (simulated tutorial)	7.0	89341720	rs968908	1.51543e-08	False	11	0
+Height (simulated tutorial)	7.0	90261036	rs17865282	1.25613e-09	False	18	0
+Height (simulated tutorial)	7.0	91486751	rs4729010	7.54947e-09	False	14	1
+Height (simulated tutorial)	7.0	95076247	rs43048	1.05845e-10	False	32	0
+Height (simulated tutorial)	7.0	98573372	rs7787076	2.00906e-08	False	17	0
+Height (simulated tutorial)	7.0	101854168	rs438635	4.3413e-15	False	25	0
+Height (simulated tutorial)	7.0	104402709	rs4132013	3.53193e-11	False	20	0
+Height (simulated tutorial)	7.0	105042368	rs10269989	2.68958e-08	False	20	0
+Height (simulated tutorial)	7.0	106345801	rs4730185	4.61831e-10	False	30	0
+Height (simulated tutorial)	7.0	116578214	rs11765198	1.47058e-08	False	20	0
+Height (simulated tutorial)	7.0	121018579	rs917727	4.81625e-08	False	18	0
+Height (simulated tutorial)	7.0	122542284	rs2428770	7.6579e-11	False	14	0
+Height (simulated tutorial)	7.0	124525182	rs12706625	5.47416e-10	False	13	0
+Height (simulated tutorial)	7.0	125673187	rs1419534	2.83764e-09	False	9	0
+Height (simulated tutorial)	7.0	127642794	rs6467156	6.98e-20	False	18	0
+Height (simulated tutorial)	7.0	130957256	rs6943595	9.7267e-09	False	36	0
+Height (simulated tutorial)	7.0	132432591	rs7789422	2.22836e-09	False	18	0
+Height (simulated tutorial)	7.0	134701383	rs17168200	2.45974e-11	False	26	1
+Height (simulated tutorial)	7.0	138740240	rs2297240	3.9604e-13	False	36	0
+Height (simulated tutorial)	7.0	139518619	rs77943929	1.537e-10	False	38	0
+Height (simulated tutorial)	7.0	142183404	rs2734169	3.48374e-14	False	27	0
+Height (simulated tutorial)	7.0	146897589	rs7783508	9.89736e-14	False	0	0
+Height (simulated tutorial)	7.0	148338244	rs12533540	2.79828e-08	False	32	0
+Height (simulated tutorial)	7.0	152874387	rs10952394	1.30409e-08	False	36	0
+Height (simulated tutorial)	7.0	155373887	rs6459792	8.82126e-10	False	41	0
+Height (simulated tutorial)	7.0	157690990	rs67872903	1.14505e-09	False	25	0
+Height (simulated tutorial)	7.0	158754632	rs262140	3.3901e-13	False	33	1
+Height (simulated tutorial)	8.0	1111612	rs62487488	1.90344e-08	False	33	0
+Height (simulated tutorial)	8.0	2348656	rs56349859	1.41724e-11	False	27	0
+Height (simulated tutorial)	8.0	3228967	rs13280606	4.22493e-08	False	55	0
+Height (simulated tutorial)	8.0	4746760	rs28434279	2.13392e-08	False	48	0
+Height (simulated tutorial)	8.0	9371789	rs922052	1.12527e-20	False	29	0
+Height (simulated tutorial)	8.0	11352541	rs2618476	1.71272e-15	False	36	1
+Height (simulated tutorial)	8.0	18848091	rs2059660	1.38532e-10	False	46	0
+Height (simulated tutorial)	8.0	20306252	rs4922205	1.0597e-08	False	29	0
+Height (simulated tutorial)	8.0	22464064	rs2291232	1.6779299999999998e-20	False	34	1
+Height (simulated tutorial)	8.0	24356818	rs13259668	3.44949e-10	False	25	0
+Height (simulated tutorial)	8.0	26442925	rs384908	2.63844e-09	False	27	0
+Height (simulated tutorial)	8.0	27302433	rs9657295	8.985950000000001e-19	False	43	0
+Height (simulated tutorial)	8.0	32170223	rs12546943	4.51977e-08	False	0	0
+Height (simulated tutorial)	8.0	33457369	rs1044115	1.5485e-11	False	16	1
+Height (simulated tutorial)	8.0	35754100	rs17293069	1.02018e-08	False	0	0
+Height (simulated tutorial)	8.0	36479105	rs35083229	3.78164e-08	False	5	0
+Height (simulated tutorial)	8.0	37018665	rs1475832	9.66279e-09	False	27	0
+Height (simulated tutorial)	8.0	38777146	rs13254784	5.47637e-10	False	17	0
+Height (simulated tutorial)	8.0	42399906	rs13273204	7.80081e-13	False	24	1
+Height (simulated tutorial)	8.0	50542665	rs13254152	8.9695e-12	False	0	0
+Height (simulated tutorial)	8.0	57769437	rs745624	3.27316e-09	False	16	0
+Height (simulated tutorial)	8.0	58336604	rs10086935	6.69771e-10	False	15	0
+Height (simulated tutorial)	8.0	64784507	rs7013560	7.186e-12	False	0	0
+Height (simulated tutorial)	8.0	67349600	rs2555581	2.24895e-12	False	16	0
+Height (simulated tutorial)	8.0	71459246	rs3954895	2.52683e-11	False	12	0
+Height (simulated tutorial)	8.0	73901272	rs6983580	1.34694e-12	False	28	0
+Height (simulated tutorial)	8.0	76135625	rs7836364	2.03933e-15	False	18	0
+Height (simulated tutorial)	8.0	81842469	rs4739772	2.91471e-09	False	29	0
+Height (simulated tutorial)	8.0	84525689	rs1489058	2.81142e-08	False	0	0
+Height (simulated tutorial)	8.0	85905897	rs13262058	3.59327e-14	False	17	1
+Height (simulated tutorial)	8.0	87222131	rs75463553	6.3401e-09	False	22	0
+Height (simulated tutorial)	8.0	94782731	rs3097418	4.20686e-15	False	23	0
+Height (simulated tutorial)	8.0	97135693	rs560075	7.84457e-16	False	23	0
+Height (simulated tutorial)	8.0	99127984	rs57392722	7.18031e-16	False	28	1
+Height (simulated tutorial)	8.0	100921303	rs10098852	9.20982e-09	False	18	0
+Height (simulated tutorial)	8.0	102719633	rs7844804	1.05179e-08	False	27	0
+Height (simulated tutorial)	8.0	103255945	rs2853232	2.0061e-08	False	28	0
+Height (simulated tutorial)	8.0	103794864	rs1991924	5.09596e-14	False	46	0
+Height (simulated tutorial)	8.0	105080995	rs13279844	2.09782e-14	False	14	0
+Height (simulated tutorial)	8.0	105702362	rs3910535	1.92333e-08	False	18	0
+Height (simulated tutorial)	8.0	110563924	rs2703386	1.88504e-22	False	18	1
+Height (simulated tutorial)	8.0	114646744	rs6983855	1.17799e-17	False	0	0
+Height (simulated tutorial)	8.0	118064942	rs34049087	2.42612e-10	False	35	0
+Height (simulated tutorial)	8.0	119977337	rs12679857	2.65576e-09	False	20	0
+Height (simulated tutorial)	8.0	120958270	rs12541789	1.08338e-08	False	27	1
+Height (simulated tutorial)	8.0	130535296	rs67751243	2.82362e-08	False	34	0
+Height (simulated tutorial)	8.0	132328154	rs66611243	2.83012e-09	False	9	0
+Height (simulated tutorial)	8.0	133340776	rs876111	2.32591e-10	False	42	0
+Height (simulated tutorial)	8.0	142286609	rs7819791	4.31212e-12	False	44	0
+Height (simulated tutorial)	8.0	142884265	rs6583654	1.00039e-10	False	20	0
+Height (simulated tutorial)	8.0	144132364	rs12547949	1.01993e-10	False	32	1
+Height (simulated tutorial)	8.0	144718568	rs11136309	1.92063e-08	False	31	0
+Height (simulated tutorial)	9.0	328627	rs7870898	1.09048e-21	False	35	0
+Height (simulated tutorial)	9.0	4577809	rs190978	2.29854e-09	False	65	0
+Height (simulated tutorial)	9.0	5840749	rs12379291	1.78226e-08	False	25	0
+Height (simulated tutorial)	9.0	6631099	rs1260460	5.03177e-17	True	30	1
+Height (simulated tutorial)	9.0	7618765	rs28406373	1.72165e-15	False	47	0
+Height (simulated tutorial)	9.0	11262339	rs10756216	3.84292e-09	False	0	0
+Height (simulated tutorial)	9.0	12809882	rs10809847	5.17023e-09	False	0	0
+Height (simulated tutorial)	9.0	14376038	rs4741366	8.75403e-10	False	74	0
+Height (simulated tutorial)	9.0	16915021	rs3814113	5.88637e-10	False	39	0
+Height (simulated tutorial)	9.0	17591406	rs3808775	1.944e-13	False	21	0
+Height (simulated tutorial)	9.0	19196038	rs13297758	3.33724e-08	False	30	0
+Height (simulated tutorial)	9.0	20484481	rs6475437	6.33585e-11	False	28	0
+Height (simulated tutorial)	9.0	23689717	rs4977886	4.0733e-08	False	0	0
+Height (simulated tutorial)	9.0	24822671	rs7856711	1.53833e-13	False	0	0
+Height (simulated tutorial)	9.0	26723522	rs10967494	2.44441e-09	False	21	0
+Height (simulated tutorial)	9.0	27922737	rs10968194	1.18259e-10	False	26	0
+Height (simulated tutorial)	9.0	34674332	rs2256480	6.42762e-17	False	20	1
+Height (simulated tutorial)	9.0	38207654	rs920705	1.88072e-09	False	35	0
+Height (simulated tutorial)	9.0	71939431	rs10867357	1.9575e-12	False	30	0
+Height (simulated tutorial)	9.0	74378277	rs7030211	1.41587e-08	False	32	0
+Height (simulated tutorial)	9.0	77298426	rs1885967	1.03949e-11	False	30	0
+Height (simulated tutorial)	9.0	78291861	rs7866089	1.8984e-11	False	22	0
+Height (simulated tutorial)	9.0	81223506	rs10867223	5.31407e-09	False	22	0
+Height (simulated tutorial)	9.0	86002493	rs12337675	3.80953e-08	False	44	0
+Height (simulated tutorial)	9.0	89123908	rs4877984	1.09837e-14	False	29	0
+Height (simulated tutorial)	9.0	89874486	rs1977249	3.68519e-12	False	18	0
+Height (simulated tutorial)	9.0	93100668	rs1754088	9.4085e-12	False	18	0
+Height (simulated tutorial)	9.0	93975471	rs773506	7.02603e-09	False	26	0
+Height (simulated tutorial)	9.0	94541239	rs7025400	3.00712e-11	False	17	0
+Height (simulated tutorial)	9.0	97958248	rs4744445	1.81296e-08	False	10	0
+Height (simulated tutorial)	9.0	100193113	rs7874295	3.96787e-13	False	19	1
+Height (simulated tutorial)	9.0	104683156	rs12380133	2.14815e-08	False	27	0
+Height (simulated tutorial)	9.0	106173210	rs303543	6.91845e-10	False	2	0
+Height (simulated tutorial)	9.0	110565722	rs1474334	8.96719e-09	False	36	0
+Height (simulated tutorial)	9.0	114927397	rs781621	2.64748e-13	False	43	1
+Height (simulated tutorial)	9.0	116471385	rs681729	1.69991e-08	False	26	0
+Height (simulated tutorial)	9.0	117810036	rs2297181	5.16554e-12	False	39	1
+Height (simulated tutorial)	9.0	119392283	rs1885244	2.86291e-11	False	33	0
+Height (simulated tutorial)	9.0	122468385	rs4330759	2.66798e-19	False	7	0
+Height (simulated tutorial)	9.0	123690239	rs3761847	4.92895e-16	False	23	1
+Height (simulated tutorial)	9.0	125131688	rs1330344	1.53809e-12	False	63	1
+Height (simulated tutorial)	9.0	128152615	rs3104554	1.1447e-10	False	17	1
+Height (simulated tutorial)	9.0	130532599	rs10760499	8.03096e-20	False	32	1
+Height (simulated tutorial)	9.0	131745548	rs719703	1.39363e-09	False	32	1
+Height (simulated tutorial)	9.0	135397773	rs944807	3.93742e-12	False	43	0
+Height (simulated tutorial)	9.0	136473053	rs113864525	5.27995e-09	False	63	0
+Height (simulated tutorial)	9.0	137809861	rs10117466	2.91096e-09	False	63	0
+Height (simulated tutorial)	9.0	138816796	rs4842047	6.65705e-10	False	35	0
+Height (simulated tutorial)	10.0	3208104	rs75359203	3.44134e-08	False	52	0
+Height (simulated tutorial)	10.0	5062171	rs28571848	5.9853e-09	False	32	0
+Height (simulated tutorial)	10.0	6448900	rs586497	7.78813e-09	False	72	0
+Height (simulated tutorial)	10.0	7203237	rs9665413	2.65946e-11	False	40	0
+Height (simulated tutorial)	10.0	8776296	rs17144411	1.95215e-13	False	9	0
+Height (simulated tutorial)	10.0	11825785	rs35505133	4.99806e-10	False	37	1
+Height (simulated tutorial)	10.0	12546308	rs79244075	3.98103e-10	False	56	0
+Height (simulated tutorial)	10.0	13912382	rs72771092	2.42278e-09	False	71	0
+Height (simulated tutorial)	10.0	19756569	rs12245764	3.46217e-10	False	16	0
+Height (simulated tutorial)	10.0	20790236	rs12782055	1.76076e-08	False	29	0
+Height (simulated tutorial)	10.0	21889083	rs12356674	9.40212e-09	False	15	0
+Height (simulated tutorial)	10.0	30292597	rs11007851	2.21702e-12	False	36	0
+Height (simulated tutorial)	10.0	32160519	rs7077016	1.63183e-14	False	15	0
+Height (simulated tutorial)	10.0	33390850	rs2666241	9.78786e-14	True	22	0
+Height (simulated tutorial)	10.0	34427540	rs1778874	7.00549e-14	False	41	0
+Height (simulated tutorial)	10.0	36648566	rs10827631	4.40809e-11	False	28	0
+Height (simulated tutorial)	10.0	38384015	rs2472177	5.23321e-28	False	8	0
+Height (simulated tutorial)	10.0	42970504	rs72787863	3.4462699999999997e-25	False	8	0
+Height (simulated tutorial)	10.0	44935055	rs1147937	3.1378e-10	False	26	0
+Height (simulated tutorial)	10.0	50801368	rs11595012	1.89646e-08	True	46	0
+Height (simulated tutorial)	10.0	55208691	rs351789	4.87246e-08	False	17	0
+Height (simulated tutorial)	10.0	56610715	rs10763151	1.37974e-16	False	25	0
+Height (simulated tutorial)	10.0	60035372	rs2790179	1.99989e-08	False	25	0
+Height (simulated tutorial)	10.0	62498268	rs9414741	1.6148e-17	False	27	1
+Height (simulated tutorial)	10.0	66546149	rs2222375	4.67158e-16	False	0	0
+Height (simulated tutorial)	10.0	67094693	rs10996336	1.26332e-09	False	0	0
+Height (simulated tutorial)	10.0	68547226	rs73310838	3.74718e-14	False	0	0
+Height (simulated tutorial)	10.0	71560033	rs2704506	4.10468e-12	False	61	0
+Height (simulated tutorial)	10.0	73744470	rs2394847	6.37494e-11	False	50	1
+Height (simulated tutorial)	10.0	75604972	rs12221230	2.6025e-10	False	13	0
+Height (simulated tutorial)	10.0	77785955	rs2894318	4.0784e-09	False	51	0
+Height (simulated tutorial)	10.0	82241930	rs7088704	2.25926e-14	False	35	0
+Height (simulated tutorial)	10.0	84395383	rs2219938	3.18622e-08	False	0	0
+Height (simulated tutorial)	10.0	87685741	rs7100625	1.33405e-08	False	25	0
+Height (simulated tutorial)	10.0	88799072	rs9421561	1.61758e-09	False	12	0
+Height (simulated tutorial)	10.0	89446384	rs7077922	2.16116e-11	False	22	0
+Height (simulated tutorial)	10.0	90023033	rs10509540	1.93592e-08	False	34	0
+Height (simulated tutorial)	10.0	92189876	rs4933588	1.63448e-09	False	14	0
+Height (simulated tutorial)	10.0	93425494	rs7900863	4.09806e-14	False	23	0
+Height (simulated tutorial)	10.0	93968910	rs72807258	4.09837e-09	False	18	0
+Height (simulated tutorial)	10.0	95158494	rs701859	1.75401e-09	False	33	0
+Height (simulated tutorial)	10.0	96070375	rs3781264	4.19321e-13	False	16	0
+Height (simulated tutorial)	10.0	97240100	rs9988729	2.7467e-13	False	41	0
+Height (simulated tutorial)	10.0	98483774	rs595883	4.57248e-08	False	34	0
+Height (simulated tutorial)	10.0	102162852	rs10883478	7.7071e-17	False	31	0
+Height (simulated tutorial)	10.0	109590833	rs12768215	1.36091e-09	False	0	0
+Height (simulated tutorial)	10.0	111953763	rs7071207	1.04776e-08	False	17	0
+Height (simulated tutorial)	10.0	114834498	rs7908486	5.12451e-14	False	39	0
+Height (simulated tutorial)	10.0	127709057	rs10794055	4.14013e-08	False	24	0
+Height (simulated tutorial)	10.0	133332793	rs7918680	3.53608e-08	False	26	0
+Height (simulated tutorial)	10.0	134981690	rs2998152	6.88218e-13	False	42	0
+Height (simulated tutorial)	11.0	693831	rs7114191	3.25541e-11	False	39	1
+Height (simulated tutorial)	11.0	1242299	rs12804004	1.23425e-08	False	28	0
+Height (simulated tutorial)	11.0	3395538	rs3794188	8.00375e-09	False	31	0
+Height (simulated tutorial)	11.0	5854841	rs4758456	2.03771e-12	False	70	1
+Height (simulated tutorial)	11.0	9295884	rs7123342	3.49367e-14	False	25	0
+Height (simulated tutorial)	11.0	11570895	rs7943730	1.91869e-09	False	44	0
+Height (simulated tutorial)	11.0	13901821	rs17460167	8.18935e-11	False	27	0
+Height (simulated tutorial)	11.0	14581762	rs2597212	1.40124e-12	False	7	0
+Height (simulated tutorial)	11.0	20641022	rs4922798	4.44435e-12	False	25	0
+Height (simulated tutorial)	11.0	26015034	rs724028	4.58615e-15	False	26	0
+Height (simulated tutorial)	11.0	26718439	rs10835059	3.14706e-08	False	33	0
+Height (simulated tutorial)	11.0	27648371	rs36029218	6.78084e-15	False	31	1
+Height (simulated tutorial)	11.0	35280852	rs10768122	4.66763e-11	False	46	0
+Height (simulated tutorial)	11.0	39787732	rs4755523	2.16737e-10	False	19	0
+Height (simulated tutorial)	11.0	41216468	rs2171333	3.44085e-08	False	20	0
+Height (simulated tutorial)	11.0	42623993	rs10742634	3.05251e-10	False	3	0
+Height (simulated tutorial)	11.0	50634946	rs77622929	8.571e-64	False	0	0
+Height (simulated tutorial)	11.0	51427959	rs11246557	2.5273199999999998e-64	False	0	0
+Height (simulated tutorial)	11.0	54995116	rs11534530	7.11674e-64	False	5	0
+Height (simulated tutorial)	11.0	58944104	rs2105505	5.3452e-17	False	21	0
+Height (simulated tutorial)	11.0	59828070	rs17154527	1.54034e-13	False	20	0
+Height (simulated tutorial)	11.0	61898561	rs1792942	1.88636e-22	False	35	0
+Height (simulated tutorial)	11.0	62848487	rs11231341	1.26699e-09	False	29	0
+Height (simulated tutorial)	11.0	65637076	rs570387	1.60719e-17	False	29	1
+Height (simulated tutorial)	11.0	69026286	rs11228599	1.1174e-26	False	39	1
+Height (simulated tutorial)	11.0	71015050	rs79854874	6.97368e-11	False	29	0
+Height (simulated tutorial)	11.0	72526123	rs10751216	9.69221e-10	True	19	0
+Height (simulated tutorial)	11.0	73088494	rs60576099	3.6028e-08	True	23	0
+Height (simulated tutorial)	11.0	74389882	rs7940591	2.20572e-10	False	24	0
+Height (simulated tutorial)	11.0	78750374	rs10899582	6.39157e-09	False	51	0
+Height (simulated tutorial)	11.0	83935838	rs1869471	1.23964e-08	False	20	0
+Height (simulated tutorial)	11.0	85395652	rs290186	4.16176e-19	False	19	0
+Height (simulated tutorial)	11.0	88395396	rs1391880	1.63808e-37	False	19	0
+Height (simulated tutorial)	11.0	91802728	rs2036125	6.90407e-11	False	0	0
+Height (simulated tutorial)	11.0	93066756	rs7126901	1.75131e-08	False	15	0
+Height (simulated tutorial)	11.0	94845775	rs609236	1.15347e-09	False	39	0
+Height (simulated tutorial)	11.0	99256500	rs11219721	8.56433e-12	False	0	0
+Height (simulated tutorial)	11.0	100522452	rs2088952	2.42633e-08	False	20	0
+Height (simulated tutorial)	11.0	103770921	rs7127296	5.60175e-16	False	25	0
+Height (simulated tutorial)	11.0	104622390	rs11226491	5.22018e-19	False	12	0
+Height (simulated tutorial)	11.0	107355600	rs510366	7.21315e-23	False	24	0
+Height (simulated tutorial)	11.0	108464209	rs2640738	2.97871e-08	True	21	0
+Height (simulated tutorial)	11.0	109190345	rs633619	2.29048e-08	False	18	0
+Height (simulated tutorial)	11.0	109787424	rs4754413	1.41897e-08	False	21	0
+Height (simulated tutorial)	11.0	111171709	rs3802842	4.13699e-13	False	26	1
+Height (simulated tutorial)	11.0	112040027	rs360712	4.31644e-09	False	23	0
+Height (simulated tutorial)	11.0	112866456	rs4144892	1.08694e-12	False	28	0
+Height (simulated tutorial)	11.0	114387150	rs673766	8.8855e-17	False	31	0
+Height (simulated tutorial)	11.0	115078492	rs3802858	1.47863e-11	False	19	0
+Height (simulated tutorial)	11.0	115708811	rs1892977	1.3652e-09	False	21	0
+Height (simulated tutorial)	11.0	116454261	rs7113362	4.17469e-08	False	50	0
+Height (simulated tutorial)	11.0	117987746	rs640888	1.70722e-08	False	40	0
+Height (simulated tutorial)	11.0	118679387	rs473298	7.96166e-13	True	26	0
+Height (simulated tutorial)	11.0	123843906	rs79726442	3.15583e-19	False	49	0
+Height (simulated tutorial)	11.0	125707761	rs11220236	6.55352e-10	False	30	0
+Height (simulated tutorial)	11.0	129786725	rs3734070	2.66732e-11	False	17	0
+Height (simulated tutorial)	11.0	130813834	rs10894291	3.88929e-13	False	50	0
+Height (simulated tutorial)	11.0	131934349	rs1790170	3.92352e-11	False	0	0
+Height (simulated tutorial)	11.0	133600861	rs12802451	3.70332e-10	False	43	0
+Height (simulated tutorial)	12.0	1125475	rs7974686	1.93526e-12	False	29	0
+Height (simulated tutorial)	12.0	2535417	rs16929388	1.33106e-09	False	43	0
+Height (simulated tutorial)	12.0	3357992	rs3782788	1.13587e-11	False	52	0
+Height (simulated tutorial)	12.0	4498407	rs10849051	3.07466e-08	False	63	0
+Height (simulated tutorial)	12.0	5723935	rs74056066	2.39326e-09	False	46	0
+Height (simulated tutorial)	12.0	6355163	rs117508554	4.12317e-08	False	56	0
+Height (simulated tutorial)	12.0	10562089	rs1841958	5.84161e-18	False	28	1
+Height (simulated tutorial)	12.0	16958019	rs10846431	7.23402e-10	False	17	0
+Height (simulated tutorial)	12.0	18438080	rs34181448	1.04007e-08	False	0	0
+Height (simulated tutorial)	12.0	21707533	rs11046113	1.7561100000000002e-23	False	21	1
+Height (simulated tutorial)	12.0	24381955	rs1568561	1.18473e-11	False	47	0
+Height (simulated tutorial)	12.0	28921691	rs10771444	1.57351e-11	False	26	0
+Height (simulated tutorial)	12.0	39434933	rs10735849	2.0742e-09	False	13	0
+Height (simulated tutorial)	12.0	40543693	rs1463719	2.77448e-09	False	21	1
+Height (simulated tutorial)	12.0	43142996	rs1356422	3.5685e-09	False	33	0
+Height (simulated tutorial)	12.0	43792449	rs12306994	3.62305e-08	False	9	0
+Height (simulated tutorial)	12.0	47352816	rs2465629	6.43782e-09	False	21	0
+Height (simulated tutorial)	12.0	51237816	rs861204	3.50834e-21	False	22	1
+Height (simulated tutorial)	12.0	53344830	rs2070876	1.19425e-12	False	47	0
+Height (simulated tutorial)	12.0	57275528	rs4477473	8.88422e-12	False	26	1
+Height (simulated tutorial)	12.0	66578300	rs11176081	2.58142e-15	False	32	1
+Height (simulated tutorial)	12.0	71622905	rs6421232	7.62603e-10	False	13	0
+Height (simulated tutorial)	12.0	74112769	rs12230561	1.2327e-08	False	0	0
+Height (simulated tutorial)	12.0	77748495	rs11104864	2.07703e-09	False	12	0
+Height (simulated tutorial)	12.0	79654318	rs1245840	9.1345e-11	False	14	0
+Height (simulated tutorial)	12.0	80734470	rs1451091	1.84645e-10	False	23	0
+Height (simulated tutorial)	12.0	81602449	rs1921035	3.39199e-08	False	8	0
+Height (simulated tutorial)	12.0	84384008	rs11116150	2.24161e-08	False	0	0
+Height (simulated tutorial)	12.0	85661849	rs7484730	1.04412e-08	False	7	0
+Height (simulated tutorial)	12.0	88132886	rs10777061	1.38868e-08	False	12	0
+Height (simulated tutorial)	12.0	91381716	rs1920769	3.44861e-09	False	0	0
+Height (simulated tutorial)	12.0	92839604	rs170909	5.33891e-12	True	34	1
+Height (simulated tutorial)	12.0	93865572	rs10859494	2.68355e-08	False	32	0
+Height (simulated tutorial)	12.0	94579471	rs3858610	1.49428e-08	False	36	0
+Height (simulated tutorial)	12.0	95822708	rs280965	1.69361e-10	False	45	0
+Height (simulated tutorial)	12.0	98042545	rs40321	1.25026e-10	False	7	0
+Height (simulated tutorial)	12.0	102713898	rs2971581	1.48734e-09	False	17	0
+Height (simulated tutorial)	12.0	104235779	rs56365699	9.41028e-09	False	47	0
+Height (simulated tutorial)	12.0	107274086	rs73383119	1.26053e-10	False	11	0
+Height (simulated tutorial)	12.0	108487727	rs10861866	9.58834e-09	False	17	0
+Height (simulated tutorial)	12.0	110341933	rs10774978	1.54371e-08	False	18	0
+Height (simulated tutorial)	12.0	111352848	rs933296	7.7566e-09	False	20	0
+Height (simulated tutorial)	12.0	112179471	rs4766897	1.84749e-14	False	21	1
+Height (simulated tutorial)	12.0	117880281	rs10774922	1.16283e-09	False	51	0
+Height (simulated tutorial)	12.0	119124021	rs2730595	8.63804e-09	False	28	0
+Height (simulated tutorial)	12.0	120709064	rs3999561	2.0941e-16	False	21	1
+Height (simulated tutorial)	12.0	124362889	rs11057382	4.25097e-13	False	21	0
+Height (simulated tutorial)	12.0	125585692	rs60983647	2.17539e-09	False	32	0
+Height (simulated tutorial)	12.0	126936552	rs4765384	4.88373e-08	False	0	0
+Height (simulated tutorial)	12.0	129654318	rs7303187	2.12154e-10	False	64	0
+Height (simulated tutorial)	12.0	130541023	rs11060677	1.07181e-10	False	51	0
+Height (simulated tutorial)	12.0	132302268	rs12813201	2.64695e-11	False	28	0
+Height (simulated tutorial)	12.0	133373504	rs2242291	7.39242e-11	False	33	0
+Height (simulated tutorial)	13.0	19458371	rs7322178	4.63532e-13	False	18	0
+Height (simulated tutorial)	13.0	23907909	rs17078605	4.64857e-09	False	50	0
+Height (simulated tutorial)	13.0	24980675	rs1348110	7.716180000000001e-18	False	58	1
+Height (simulated tutorial)	13.0	25986812	rs9511788	8.57479e-10	False	37	0
+Height (simulated tutorial)	13.0	26755514	rs301060	1.40274e-08	False	30	0
+Height (simulated tutorial)	13.0	29206388	rs1754963	3.63289e-10	False	42	0
+Height (simulated tutorial)	13.0	30258155	rs61947194	1.10551e-16	False	24	0
+Height (simulated tutorial)	13.0	31998190	rs7986726	2.85934e-08	False	29	0
+Height (simulated tutorial)	13.0	33256987	rs687416	4.07551e-09	False	13	0
+Height (simulated tutorial)	13.0	35398174	rs9572491	8.94229e-09	False	20	0
+Height (simulated tutorial)	13.0	41381075	rs2282025	5.60902e-18	False	18	1
+Height (simulated tutorial)	13.0	46360678	rs7997707	2.01236e-08	False	44	0
+Height (simulated tutorial)	13.0	47675183	rs727023	1.41446e-09	False	33	0
+Height (simulated tutorial)	13.0	52685097	rs9316568	8.14688e-09	False	21	0
+Height (simulated tutorial)	13.0	53286950	rs7330220	1.31395e-08	False	30	0
+Height (simulated tutorial)	13.0	57083688	rs2000156	1.27702e-14	False	0	0
+Height (simulated tutorial)	13.0	58545245	rs9537885	1.44732e-09	False	0	0
+Height (simulated tutorial)	13.0	60011112	rs61957833	2.82114e-09	False	26	0
+Height (simulated tutorial)	13.0	65052462	rs4883740	3.12389e-09	False	0	0
+Height (simulated tutorial)	13.0	68191587	rs9652229	3.67872e-09	False	12	0
+Height (simulated tutorial)	13.0	70419099	rs61965337	1.01365e-08	False	0	0
+Height (simulated tutorial)	13.0	74005367	rs1159743	3.85755e-11	False	27	0
+Height (simulated tutorial)	13.0	79420253	rs9530827	5.82413e-10	False	28	0
+Height (simulated tutorial)	13.0	85323372	rs3013647	3.50608e-08	False	0	0
+Height (simulated tutorial)	13.0	86186629	rs1928130	2.2193e-12	False	0	0
+Height (simulated tutorial)	13.0	88665576	rs1470245	1.52739e-10	False	0	0
+Height (simulated tutorial)	13.0	91268443	rs12427830	2.92689e-11	False	0	0
+Height (simulated tutorial)	13.0	93654659	rs182539	1.77142e-20	False	22	0
+Height (simulated tutorial)	13.0	95691512	rs2182262	1.52328e-09	False	59	0
+Height (simulated tutorial)	13.0	98886012	rs868941	3.38423e-08	False	55	0
+Height (simulated tutorial)	13.0	99518537	rs16955981	3.77611e-12	False	40	0
+Height (simulated tutorial)	13.0	101486713	rs12583794	1.20152e-09	False	39	0
+Height (simulated tutorial)	13.0	106119446	rs2391191	1.07617e-10	False	0	0
+Height (simulated tutorial)	13.0	107291533	rs72632699	1.21305e-12	False	44	0
+Height (simulated tutorial)	13.0	107869393	rs750093	9.12018e-09	False	4	0
+Height (simulated tutorial)	13.0	109011782	rs17381647	1.53092e-10	False	43	0
+Height (simulated tutorial)	13.0	109634114	rs3843685	3.11695e-11	False	36	0
+Height (simulated tutorial)	13.0	111467706	rs328818	1.21268e-11	False	44	0
+Height (simulated tutorial)	14.0	20528528	rs2775254	4.14307e-11	False	38	0
+Height (simulated tutorial)	14.0	21457945	rs2741732	1.16747e-12	True	63	0
+Height (simulated tutorial)	14.0	23222422	rs17277837	6.88751e-12	False	57	0
+Height (simulated tutorial)	14.0	26094001	rs17461186	1.04146e-13	False	10	0
+Height (simulated tutorial)	14.0	28415101	rs61698056	1.78575e-08	False	0	0
+Height (simulated tutorial)	14.0	29663281	rs17114593	3.13739e-08	False	21	0
+Height (simulated tutorial)	14.0	32765872	rs10483402	2.33088e-11	False	38	0
+Height (simulated tutorial)	14.0	37923454	rs17179078	5.76772e-31	False	0	0
+Height (simulated tutorial)	14.0	41878571	rs3844018	2.28455e-08	False	0	0
+Height (simulated tutorial)	14.0	42848673	rs2626418	8.33604e-09	False	0	0
+Height (simulated tutorial)	14.0	43761924	rs12435496	2.99849e-14	False	0	0
+Height (simulated tutorial)	14.0	50479810	rs10141866	3.27534e-13	False	26	0
+Height (simulated tutorial)	14.0	52470678	rs17831507	1.45273e-08	False	42	0
+Height (simulated tutorial)	14.0	53663930	rs2022763	3.64857e-09	False	27	0
+Height (simulated tutorial)	14.0	54594060	rs8021372	7.24326e-10	False	18	0
+Height (simulated tutorial)	14.0	55625938	rs6573007	6.45378e-12	False	16	0
+Height (simulated tutorial)	14.0	65241228	rs229592	1.98225e-08	False	31	0
+Height (simulated tutorial)	14.0	66475085	rs1147436	6.34289e-16	False	28	0
+Height (simulated tutorial)	14.0	67701168	rs1290900	1.23792e-16	False	14	1
+Height (simulated tutorial)	14.0	69579619	rs10083451	2.2968e-09	False	24	0
+Height (simulated tutorial)	14.0	75234101	rs2193596	2.94767e-19	False	20	1
+Height (simulated tutorial)	14.0	76344571	rs7156551	5.10644e-09	False	17	0
+Height (simulated tutorial)	14.0	78616156	rs12880040	1.77414e-09	False	35	0
+Height (simulated tutorial)	14.0	79629123	rs2061920	2.03119e-09	False	15	0
+Height (simulated tutorial)	14.0	81881735	rs7144547	2.04201e-08	False	19	0
+Height (simulated tutorial)	14.0	88200168	rs11845602	3.19948e-08	False	20	0
+Height (simulated tutorial)	14.0	89871363	rs3783841	1.56096e-10	False	40	0
+Height (simulated tutorial)	14.0	90968818	rs1739998	9.5903e-10	False	30	0
+Height (simulated tutorial)	14.0	94933709	rs6575433	1.09798e-27	False	58	0
+Height (simulated tutorial)	14.0	95923806	rs8007606	5.19351e-10	True	55	0
+Height (simulated tutorial)	14.0	101297963	rs3087918	3.33041e-08	False	33	0
+Height (simulated tutorial)	14.0	102965435	rs3783381	4.44457e-17	False	21	0
+Height (simulated tutorial)	14.0	105410827	rs28380382	2.17634e-09	False	29	1
+Height (simulated tutorial)	14.0	107052293	rs10133734	4.52777e-10	False	0	0
+Height (simulated tutorial)	15.0	26213603	rs7162875	1.45853e-09	False	54	0
+Height (simulated tutorial)	15.0	27900905	rs34739439	1.78823e-10	False	28	0
+Height (simulated tutorial)	15.0	30253772	rs1522645	4.38753e-13	False	27	0
+Height (simulated tutorial)	15.0	31947951	rs11858379	4.14768e-11	False	21	0
+Height (simulated tutorial)	15.0	32967880	rs7162000	2.81209e-10	False	28	0
+Height (simulated tutorial)	15.0	36876922	rs12911098	2.29172e-09	False	36	0
+Height (simulated tutorial)	15.0	37774719	rs9920495	5.23432e-09	False	15	0
+Height (simulated tutorial)	15.0	39064772	rs2958312	1.46406e-09	False	55	1
+Height (simulated tutorial)	15.0	46658369	rs7173889	3.39193e-14	False	0	0
+Height (simulated tutorial)	15.0	50555011	rs860526	2.39474e-08	False	25	0
+Height (simulated tutorial)	15.0	53246949	rs67183224	8.25327e-10	False	32	0
+Height (simulated tutorial)	15.0	57672099	rs1664470	1.41511e-12	False	43	0
+Height (simulated tutorial)	15.0	59011063	rs7179540	2.29347e-21	False	29	0
+Height (simulated tutorial)	15.0	60119992	rs7182438	6.88339e-10	False	37	0
+Height (simulated tutorial)	15.0	63433766	rs2729835	1.06107e-09	False	25	0
+Height (simulated tutorial)	15.0	64962630	rs11633399	1.49411e-09	False	19	0
+Height (simulated tutorial)	15.0	66910085	rs62013399	3.65601e-08	False	28	0
+Height (simulated tutorial)	15.0	73652174	rs7164883	4.37168e-09	False	12	0
+Height (simulated tutorial)	15.0	75384227	rs8034281	2.4315e-10	True	25	1
+Height (simulated tutorial)	15.0	78420311	rs3784330	1.17285e-10	False	29	1
+Height (simulated tutorial)	15.0	79007950	rs11638490	4.82337e-08	False	41	0
+Height (simulated tutorial)	15.0	79855059	rs3120636	1.29718e-12	False	37	0
+Height (simulated tutorial)	15.0	83735926	rs8040457	2.07604e-16	True	17	0
+Height (simulated tutorial)	15.0	85447635	rs2290271	1.24776e-14	False	55	0
+Height (simulated tutorial)	15.0	87145842	rs2346733	8.77844e-22	False	0	0
+Height (simulated tutorial)	15.0	88051664	rs73453540	4.95847e-08	False	0	0
+Height (simulated tutorial)	15.0	90219946	rs4411483	1.65387e-11	False	48	1
+Height (simulated tutorial)	15.0	91094064	rs4349125	3.84002e-09	True	28	0
+Height (simulated tutorial)	15.0	93603608	rs4778081	8.70675e-12	False	51	0
+Height (simulated tutorial)	15.0	95104958	rs6496024	5.27015e-09	False	57	0
+Height (simulated tutorial)	15.0	98646537	rs899666	7.58487e-12	False	34	0
+Height (simulated tutorial)	15.0	100023299	rs7181817	1.20378e-09	False	26	0
+Height (simulated tutorial)	15.0	101006703	rs8028050	1.21317e-17	False	55	0
+Height (simulated tutorial)	16.0	1877494	rs3743854	6.63801e-12	True	40	1
+Height (simulated tutorial)	16.0	4880827	rs62036114	3.71741e-11	False	49	0
+Height (simulated tutorial)	16.0	6117839	rs4146813	9.17435e-10	False	0	0
+Height (simulated tutorial)	16.0	7466553	rs6500961	3.43832e-08	False	0	0
+Height (simulated tutorial)	16.0	10052440	rs16966731	1.17352e-09	False	25	0
+Height (simulated tutorial)	16.0	12697211	rs8063664	1.68447e-13	False	48	0
+Height (simulated tutorial)	16.0	20680206	rs433598	7.74716e-09	False	18	0
+Height (simulated tutorial)	16.0	21221324	rs13331814	1.67327e-09	False	29	0
+Height (simulated tutorial)	16.0	21947745	rs3914705	3.31025e-10	False	23	1
+Height (simulated tutorial)	16.0	26728946	rs7203372	4.04313e-09	False	22	0
+Height (simulated tutorial)	16.0	27467337	rs7184872	1.35353e-08	False	27	0
+Height (simulated tutorial)	16.0	29266272	rs8048750	2.84649e-14	False	10	0
+Height (simulated tutorial)	16.0	51219914	rs1548924	2.47109e-14	False	28	0
+Height (simulated tutorial)	16.0	53054410	rs8051957	6.6488e-10	False	18	0
+Height (simulated tutorial)	16.0	59253397	rs7187664	7.91428e-11	False	16	0
+Height (simulated tutorial)	16.0	61560661	rs7185050	3.09763e-10	False	0	0
+Height (simulated tutorial)	16.0	66372886	rs7198681	2.44867e-09	False	34	0
+Height (simulated tutorial)	16.0	67850700	rs35316276	6.78876e-14	True	22	0
+Height (simulated tutorial)	16.0	69534636	rs16958932	1.94598e-11	False	25	0
+Height (simulated tutorial)	16.0	72406328	rs806733	1.50996e-11	False	11	0
+Height (simulated tutorial)	16.0	75313258	rs8050367	1.4613900000000001e-19	False	21	0
+Height (simulated tutorial)	16.0	78023791	rs443157	1.2904e-09	False	51	0
+Height (simulated tutorial)	16.0	78533357	rs17639042	2.19434e-08	False	38	0
+Height (simulated tutorial)	16.0	81005733	rs13332890	6.37613e-16	False	67	1
+Height (simulated tutorial)	16.0	81886041	rs12921791	4.97394e-09	False	40	0
+Height (simulated tutorial)	16.0	84209738	rs2288020	2.21261e-09	False	78	1
+Height (simulated tutorial)	16.0	85144693	rs8060060	1.1400899999999999e-20	False	53	1
+Height (simulated tutorial)	16.0	85784123	rs4843679	1.44395e-08	True	45	0
+Height (simulated tutorial)	16.0	86892017	rs4843469	2.09254e-08	False	66	0
+Height (simulated tutorial)	16.0	88541140	rs7196578	4.42005e-15	False	28	1
+Height (simulated tutorial)	16.0	89748736	rs12924572	1.60988e-09	False	44	1
+Height (simulated tutorial)	17.0	1550106	rs2293067	2.61163e-08	False	51	0
+Height (simulated tutorial)	17.0	2293420	rs2447095	2.44484e-21	False	39	1
+Height (simulated tutorial)	17.0	4337283	rs35751906	3.33546e-08	True	44	0
+Height (simulated tutorial)	17.0	5834982	rs1558888	5.29705e-10	False	46	0
+Height (simulated tutorial)	17.0	6679644	rs11078649	5.76584e-11	False	51	0
+Height (simulated tutorial)	17.0	7530271	rs858520	4.62176e-09	False	41	1
+Height (simulated tutorial)	17.0	8251715	rs60312514	2.00387e-10	False	37	0
+Height (simulated tutorial)	17.0	9127852	rs72814104	6.41127e-11	False	46	0
+Height (simulated tutorial)	17.0	10228815	rs1859999	1.7562e-10	False	56	0
+Height (simulated tutorial)	17.0	12471843	rs11078077	5.32453e-09	False	41	0
+Height (simulated tutorial)	17.0	18185510	rs4925159	2.57424e-12	False	22	1
+Height (simulated tutorial)	17.0	25958304	rs3751093	1.11853e-08	True	24	0
+Height (simulated tutorial)	17.0	26864302	rs532648	1.59293e-09	False	33	0
+Height (simulated tutorial)	17.0	31222433	rs2466858	9.88384e-16	False	27	0
+Height (simulated tutorial)	17.0	33504465	rs12451132	7.37816e-21	False	38	1
+Height (simulated tutorial)	17.0	37403979	rs3964723	4.34017e-18	False	28	0
+Height (simulated tutorial)	17.0	38648346	rs7214311	1.76362e-09	False	34	0
+Height (simulated tutorial)	17.0	40542210	rs4796793	3.20886e-15	False	18	0
+Height (simulated tutorial)	17.0	42555485	rs9891016	8.94015e-17	False	22	1
+Height (simulated tutorial)	17.0	44856641	rs199515	3.32357e-12	False	21	1
+Height (simulated tutorial)	17.0	47000251	rs1058018	6.05188e-16	False	42	1
+Height (simulated tutorial)	17.0	48545596	rs34864120	6.49544e-14	False	54	1
+Height (simulated tutorial)	17.0	57791844	rs12947232	2.53957e-16	False	47	1
+Height (simulated tutorial)	17.0	61629692	rs9896476	6.8024e-13	False	16	1
+Height (simulated tutorial)	17.0	65990500	rs56305452	1.71432e-12	False	13	1
+Height (simulated tutorial)	17.0	72593140	rs511164	1.40844e-09	False	50	0
+Height (simulated tutorial)	17.0	73565171	rs1671021	9.16034e-10	False	29	1
+Height (simulated tutorial)	17.0	76391005	rs72911393	1.50914e-12	False	67	0
+Height (simulated tutorial)	17.0	77369046	rs12602412	1.00895e-08	False	54	0
+Height (simulated tutorial)	17.0	78754499	rs12149993	2.65205e-10	True	24	0
+Height (simulated tutorial)	17.0	80789628	rs8074277	2.40817e-08	False	36	1
+Height (simulated tutorial)	18.0	688463	rs2612088	6.54445e-10	False	65	1
+Height (simulated tutorial)	18.0	2127982	rs9303893	1.23759e-09	False	31	0
+Height (simulated tutorial)	18.0	3180709	rs7238703	3.36188e-11	False	35	0
+Height (simulated tutorial)	18.0	3916561	rs4798144	1.53487e-08	False	39	0
+Height (simulated tutorial)	18.0	4772796	rs62079938	8.82399e-09	False	14	0
+Height (simulated tutorial)	18.0	6985507	rs523711	3.52068e-10	False	69	0
+Height (simulated tutorial)	18.0	9241386	rs17413793	4.01169e-13	False	22	0
+Height (simulated tutorial)	18.0	10448334	rs2847350	2.50285e-12	False	53	0
+Height (simulated tutorial)	18.0	12984144	rs6505776	7.69264e-13	False	28	1
+Height (simulated tutorial)	18.0	19340013	rs45590343	7.73184e-09	False	16	0
+Height (simulated tutorial)	18.0	19987673	rs4800122	2.56744e-10	False	28	0
+Height (simulated tutorial)	18.0	22194998	rs746625	1.5504e-08	False	27	0
+Height (simulated tutorial)	18.0	24449049	rs151245	1.62021e-09	False	38	0
+Height (simulated tutorial)	18.0	27090407	rs9945275	1.17619e-10	False	0	0
+Height (simulated tutorial)	18.0	28934681	rs3752095	3.13399e-14	False	38	0
+Height (simulated tutorial)	18.0	29862459	rs618862	2.81662e-08	False	26	0
+Height (simulated tutorial)	18.0	31407526	rs903206	1.59686e-11	False	15	0
+Height (simulated tutorial)	18.0	33363246	rs17671655	9.04897e-09	False	7	0
+Height (simulated tutorial)	18.0	39697934	rs1788990	1.0992e-09	False	13	0
+Height (simulated tutorial)	18.0	40461367	rs553243	5.53319e-09	False	0	0
+Height (simulated tutorial)	18.0	43451931	rs11663670	2.15859e-12	False	38	1
+Height (simulated tutorial)	18.0	44331694	rs7237805	6.38093e-10	False	37	0
+Height (simulated tutorial)	18.0	46382811	rs11082711	9.99681e-09	False	44	0
+Height (simulated tutorial)	18.0	49469467	rs2953261	4.53812e-08	False	9	0
+Height (simulated tutorial)	18.0	50888136	rs10502972	3.91616e-08	False	9	0
+Height (simulated tutorial)	18.0	56559423	rs35450591	1.44401e-08	False	24	0
+Height (simulated tutorial)	18.0	57882787	rs489693	7.85289e-26	False	31	0
+Height (simulated tutorial)	18.0	59801723	rs4941112	6.91573e-09	False	21	1
+Height (simulated tutorial)	18.0	68130547	rs35322387	1.25636e-09	False	29	0
+Height (simulated tutorial)	18.0	68981170	rs58917255	3.07734e-10	False	0	0
+Height (simulated tutorial)	18.0	70909870	rs9945538	1.56608e-09	False	30	0
+Height (simulated tutorial)	18.0	76560025	rs4799206	2.60076e-08	False	31	0
+Height (simulated tutorial)	18.0	77277719	rs12959273	9.60206e-11	False	35	0
+Height (simulated tutorial)	19.0	2021909	rs6510636	6.24391e-09	False	39	0
+Height (simulated tutorial)	19.0	3750615	rs1046268	3.62657e-08	False	36	0
+Height (simulated tutorial)	19.0	4524016	rs1062223	1.46586e-09	False	45	0
+Height (simulated tutorial)	19.0	6701513	rs445750	2.40861e-11	False	92	1
+Height (simulated tutorial)	19.0	9077196	rs7254941	5.32187e-11	False	92	0
+Height (simulated tutorial)	19.0	10998845	rs34837445	3.49056e-16	False	34	1
+Height (simulated tutorial)	19.0	13855863	rs389535	3.32387e-16	False	28	1
+Height (simulated tutorial)	19.0	16128817	rs1990026	6.55614e-10	False	31	0
+Height (simulated tutorial)	19.0	17161093	rs7260259	5.32213e-10	False	38	1
+Height (simulated tutorial)	19.0	18369270	rs3810433	8.5749e-48	False	56	1
+Height (simulated tutorial)	19.0	19738554	rs873870	2.2972300000000004e-18	True	25	1
+Height (simulated tutorial)	19.0	20291263	rs836896	8.18492e-10	False	12	0
+Height (simulated tutorial)	19.0	33281924	rs11881633	1.04003e-11	False	39	0
+Height (simulated tutorial)	19.0	35342759	rs11669600	4.82783e-08	False	38	0
+Height (simulated tutorial)	19.0	36023805	rs12151019	1.75867e-12	False	57	0
+Height (simulated tutorial)	19.0	36707064	rs75333181	9.00924e-09	False	26	0
+Height (simulated tutorial)	19.0	38363084	rs10401637	6.21516e-18	False	13	1
+Height (simulated tutorial)	19.0	41094838	rs393569	3.3852900000000003e-18	False	51	1
+Height (simulated tutorial)	19.0	44833506	rs4325673	2.21756e-23	False	44	1
+Height (simulated tutorial)	19.0	46328179	rs4803861	4.23951e-08	False	41	0
+Height (simulated tutorial)	19.0	46923752	rs453394	2.89081e-08	False	49	0
+Height (simulated tutorial)	19.0	48217945	rs6509334	1.89345e-13	False	37	0
+Height (simulated tutorial)	19.0	49828897	rs8102574	9.09291e-14	False	40	1
+Height (simulated tutorial)	19.0	51585615	rs2072689	7.97265e-09	False	74	0
+Height (simulated tutorial)	19.0	53708525	rs12462452	1.60956e-13	False	56	0
+Height (simulated tutorial)	19.0	55550312	rs1654433	2.04851e-11	False	67	1
+Height (simulated tutorial)	19.0	56421775	rs11670284	8.45958e-09	False	71	0
+Height (simulated tutorial)	19.0	57162101	rs10403522	8.04743e-14	False	35	1
+Height (simulated tutorial)	19.0	57863913	rs12709968	4.42139e-13	False	57	1
+Height (simulated tutorial)	19.0	58610835	rs1019489	3.32693e-08	False	40	0
+Height (simulated tutorial)	20.0	255240	rs13039523	2.11614e-10	False	45	0
+Height (simulated tutorial)	20.0	2742668	rs1033519	1.81782e-15	False	39	0
+Height (simulated tutorial)	20.0	4074953	rs35851427	4.97676e-08	False	39	0
+Height (simulated tutorial)	20.0	5247910	rs6107606	3.59263e-08	False	44	0
+Height (simulated tutorial)	20.0	9976721	rs1884397	2.01973e-08	False	49	0
+Height (simulated tutorial)	20.0	10597222	rs1232600	4.12548e-12	False	26	0
+Height (simulated tutorial)	20.0	11473890	rs6134267	1.02821e-09	False	14	0
+Height (simulated tutorial)	20.0	12247029	rs6041229	3.64222e-14	False	26	0
+Height (simulated tutorial)	20.0	13185666	rs6131450	4.26852e-13	False	40	0
+Height (simulated tutorial)	20.0	13830137	rs2073290	6.06517e-10	False	19	1
+Height (simulated tutorial)	20.0	15646981	rs6135478	1.55866e-08	False	53	0
+Height (simulated tutorial)	20.0	16986879	rs8124297	8.58373e-11	False	26	0
+Height (simulated tutorial)	20.0	20057518	rs974202	1.19123e-09	False	65	0
+Height (simulated tutorial)	20.0	22701756	rs2148923	6.57022e-23	False	18	0
+Height (simulated tutorial)	20.0	23711882	rs6114248	1.42898e-11	False	20	0
+Height (simulated tutorial)	20.0	30849517	rs4243971	2.50971e-08	False	19	0
+Height (simulated tutorial)	20.0	32603927	rs2268082	4.53526e-09	False	19	0
+Height (simulated tutorial)	20.0	35183699	rs6071089	2.8286e-08	False	20	0
+Height (simulated tutorial)	20.0	36333853	rs1884635	1.02065e-10	False	18	0
+Height (simulated tutorial)	20.0	39960342	rs6029632	1.6128e-13	False	14	0
+Height (simulated tutorial)	20.0	42953115	rs6073410	2.60197e-09	False	40	0
+Height (simulated tutorial)	20.0	47963232	rs1875721	8.18161e-10	False	31	0
+Height (simulated tutorial)	20.0	49489520	rs6096137	1.1518e-18	False	42	0
+Height (simulated tutorial)	20.0	53644367	rs158303	1.00875e-09	False	0	0
+Height (simulated tutorial)	20.0	54493281	rs228991	9.93005e-09	False	16	0
+Height (simulated tutorial)	20.0	56254984	rs157095	8.00913e-11	True	60	0
+Height (simulated tutorial)	20.0	58715220	rs2025050	1.21226e-09	False	43	0
+Height (simulated tutorial)	20.0	62340115	rs1291212	1.98393e-09	False	39	0
+Height (simulated tutorial)	21.0	15662385	rs9977552	2.63909e-10	False	36	0
+Height (simulated tutorial)	21.0	17421475	rs2823584	3.93431e-13	False	28	0
+Height (simulated tutorial)	21.0	18113191	rs2824009	4.16309e-08	False	0	0
+Height (simulated tutorial)	21.0	19340281	rs2824583	1.6667e-10	False	36	0
+Height (simulated tutorial)	21.0	23572795	rs2827275	6.6912e-12	False	6	0
+Height (simulated tutorial)	21.0	25144335	rs9808766	2.12836e-10	False	0	0
+Height (simulated tutorial)	21.0	29838199	rs2142318	3.27582e-08	False	14	0
+Height (simulated tutorial)	21.0	34146646	rs79467049	1.44745e-08	False	26	0
+Height (simulated tutorial)	21.0	37395405	rs762363	1.38999e-08	False	33	0
+Height (simulated tutorial)	21.0	38707674	rs9982545	2.01806e-09	False	13	0
+Height (simulated tutorial)	21.0	43253769	rs2839386	1.27184e-17	True	79	0
+Height (simulated tutorial)	21.0	46077946	rs9306111	2.54581e-11	False	53	0
+Height (simulated tutorial)	21.0	47704896	rs9975588	1.05604e-08	False	46	1
+Height (simulated tutorial)	22.0	18103861	rs9605348	1.2743e-11	False	56	0
+Height (simulated tutorial)	22.0	21026003	rs552668	4.8682e-21	False	34	0
+Height (simulated tutorial)	22.0	25465065	rs6004418	5.05589e-13	False	46	0
+Height (simulated tutorial)	22.0	26939781	rs732933	4.75976e-12	False	68	0
+Height (simulated tutorial)	22.0	28634976	rs134184	9.38356e-11	False	13	0
+Height (simulated tutorial)	22.0	30423460	rs12537	8.38283e-14	False	20	1
+Height (simulated tutorial)	22.0	31551160	rs4820946	4.01765e-10	False	27	0
+Height (simulated tutorial)	22.0	33856304	rs2283907	6.7117e-13	False	30	0
+Height (simulated tutorial)	22.0	34560376	rs12485116	1.82124e-13	False	29	0
+Height (simulated tutorial)	22.0	39665395	rs1569497	1.89428e-09	False	46	1
+Height (simulated tutorial)	22.0	43543954	rs138903	9.063270000000001e-18	False	47	0
+Height (simulated tutorial)	22.0	44926003	rs4823336	1.66293e-08	False	61	0
+Height (simulated tutorial)	22.0	45879432	rs738222	2.87848e-11	False	46	0
+Height (simulated tutorial)	22.0	47851349	rs130872	3.55231e-10	False	37	0
+Height (simulated tutorial)	22.0	50313727	rs7410773	2.97448e-12	False	47	1
+Height (simulated tutorial)	22.0	50960682	rs140524	4.19973e-08	False	49	0
