@@ -1,0 +1,18 @@
+{
+  "Gene_ID": "ENSG00000197728.5",
+  "Gene": "RPS26",
+  "Training_N": 275,
+  "Validation_N": 34,
+  "Eligible_SNPs": 299,
+  "Clumped_SNPs": 42,
+  "Training_Mean": 154.58201507969977,
+  "Baseline_Validation_R2": -0.0046338516627766335,
+  "Status": "Genetic model",
+  "SNPs": 10,
+  "Threshold": 0.01,
+  "Intercept": 232.99154170075013,
+  "Slope": 0.5077368430790195,
+  "Validation_Predictive_R2": 0.6067465852573259,
+  "Validation_Beats_Baseline": true,
+  "Weights_SHA256": "1527690ee6faf2acdb5d5285c3ff7a17c63a44dac8e710fa0a15bdc86b9e0e9a"
+}

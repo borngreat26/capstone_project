@@ -51,7 +51,8 @@ def run_eqtl_demo(output, work):
     ax.legend(frameon=False)
     ax.spines[['top', 'right']].set_visible(False)
     fig.tight_layout()
-    fig.savefig(output / 'demo_eqtl_top_gene.png', dpi=180)
+    fig.savefig(output / 'demo_eqtl_top_gene.png', dpi=320)
+    fig.savefig(output / 'demo_eqtl_top_gene.pdf')
     plt.close(fig)
     print(f'cis-eQTL demo: {len(summary)} genes, {len(associations):,} SNP-gene tests, '
           f"strongest gene {summary.loc[top_gene, 'Gene_Symbol']} (p = {summary['Min_P_Value'].iloc[0]:.2e})")
@@ -94,6 +95,22 @@ def run_prs_demo(output, work):
           f"z = {position['Target_Z_Score']:.2f} | score vs simulated phenotype r = {correlation:.2f}")
 
 
+def run_atac_demo(output):
+    """Clearly synthetic GRCh37 peaks demonstrate coordinate overlap only."""
+    from src.annotation import read_peaks, snp_counts
+    peaks = read_peaks(DEMO_DATA / 'demo_atac.bed')
+    associations = pd.read_csv(output / 'demo_eqtl_associations.tsv', sep='\t')
+    snps = associations[['CHR', 'SNP', 'POS']].drop_duplicates().copy()
+    snps['Synthetic_ATAC_Peaks'] = 0
+    for chrom, group in snps.groupby('CHR'):
+        snps.loc[group.index, 'Synthetic_ATAC_Peaks'] = snp_counts(peaks, chrom, group.POS)
+    snps.to_csv(output / 'demo_atac_overlap.tsv', sep='\t', index=False)
+    summary = pd.DataFrame([{'Dataset': 'Synthetic peaks; public demo SNPs', 'Unique_SNPs': len(snps),
+                             'Overlapping_SNPs': int(snps.Synthetic_ATAC_Peaks.gt(0).sum())}])
+    summary.to_csv(output / 'demo_atac_summary.tsv', sep='\t', index=False)
+    print(summary.to_string(index=False))
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', type=Path, default=REPO_ROOT / 'results/demo', help='Folder for the demo outputs')
@@ -103,6 +120,7 @@ def main():
     print('Using PLINK2 at:', plink2_path())
     run_eqtl_demo(args.output, work)
     run_prs_demo(args.output, work)
+    run_atac_demo(args.output)
     print(f'Finished. Outputs are in {args.output}')
     print('Workflow demonstration only: simulated GWAS, small region, not a disease-risk estimate.')
 

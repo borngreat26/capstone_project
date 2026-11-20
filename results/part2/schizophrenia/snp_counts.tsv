@@ -1,0 +1,17 @@
+Stage	SNPs
+Original_GWAS	8171061
+Nonpanel_Rows_Prefiltered	7023730
+Missing_ID_After_Position_Match	0
+Invalid_Position_Or_Effect	0
+Duplicate_ID_Rows_Removed	0
+Allele_Pvalue_QC_Removed	0
+Input SNPs after QC	1147331
+Not in reference panel	0
+Different position	0
+Incompatible alleles	0
+Complemented to match the panel strand	0
+Harmonized SNPs	1147331
+Build_Anchor_rsIDs	1147331
+GRCh37_Anchor_Matches	1147331
+After_Clumping_And_Threshold	3556
+Successfully_Scored	3556

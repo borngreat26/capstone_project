@@ -1,0 +1,20 @@
+{
+  "Experiment": "ENCSR603LVR",
+  "File": "ENCFF421XIL",
+  "Biosample": "B cell",
+  "Assay": "ATAC-seq",
+  "Format": "BED6+4 narrowPeak",
+  "Original_Assembly": "GRCh38",
+  "Analysis_Assembly": "GRCh37",
+  "URL": "https://www.encodeproject.org/files/ENCFF421XIL/@@download/ENCFF421XIL.bed.gz",
+  "Official_Compressed_MD5": "9ffe976e631111e8155a16401208e890",
+  "Verified_Content_MD5": "710f7d77cf028037943fc37d7f3a8608",
+  "Local_BED_SHA256": "4555d3ad5e430a47179ffd441d00e5117ddae105d20862d42121c798411b4ac3",
+  "Original_Download_Date": "Unknown: file existed before this work",
+  "Metadata_Retrieved": "2026-11-17",
+  "Input_Peaks": 100655,
+  "Mapped_Peaks": 100364,
+  "Lost_Peaks": 291,
+  "Method": "UCSC liftOver hg38ToHg19; -minMatch=0.95, unique mapping; original annotations retained",
+  "Chain_SHA256": "14a712e8e147d9fc8e9d87d51977b46f6f8ddb93efbe5d0843d86b6205f587b1"
+}

@@ -1,0 +1,15 @@
+Stage	SNPs
+Original_GWAS	129273
+Nonpanel_Rows_Prefiltered	0
+Missing_ID_After_Position_Match	0
+Invalid_Position_Or_Effect	1775
+Duplicate_ID_Rows_Removed	0
+Allele_Pvalue_QC_Removed	15753
+Input SNPs after QC	111745
+Not in reference panel	61242
+Different position	0
+Incompatible alleles	0
+Complemented to match the panel strand	25422
+Harmonized SNPs	50503
+After_Clumping_And_Threshold	229
+Successfully_Scored	229

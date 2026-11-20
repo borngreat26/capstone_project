@@ -1,0 +1,6 @@
+{
+  "Genes": 150,
+  "Residual_Pearson_R": -0.012597896031414762,
+  "Controls": "log gene length, log eligible SNP count, log training expression SD, training -log10(min p)",
+  "Interpretation": "Exploratory residual association; not proof of regulation or causal mediation. No calibrated inferential p-value claimed."
+}

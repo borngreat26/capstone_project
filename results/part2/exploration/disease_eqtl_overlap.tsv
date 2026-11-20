@@ -1,0 +1,4 @@
+Disease	Score_SNPs	Score_SNPs_Tested_For_eQTL	Score_BH_eQTL_SNPs	Score_Bonferroni_eQTL_SNPs	Score_BH_Percent_Of_Tested	Score_Bonferroni_Percent_Of_Tested	Harmonized_Tested_Background_SNPs	Background_BH_eQTL_SNPs	Background_BH_Percent	All_Pairs	BH_Pairs	Bonferroni_Pairs
+Rheumatoid arthritis	229	221	62	20	28.054298642533936	9.049773755656108	46440	7214	15.534022394487511	4123	109	26
+Type 2 diabetes	250	240	47	12	19.583333333333332	5.0	17363	2608	15.020445775499626	2979	66	14
+Schizophrenia	3556	3032	323	70	10.653034300791557	2.308707124010554	963861	78623	8.157089040847175	23430	450	82

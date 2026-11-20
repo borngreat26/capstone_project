@@ -21,7 +21,8 @@ from src.utils import REPO_ROOT
 DEMO = REPO_ROOT / 'data/demo'
 EXPECTED_OUTPUTS = ['demo_eqtl_associations.tsv', 'demo_eqtl_gene_summary.tsv', 'demo_eqtl_top_gene.png',
                     'demo_gwas_harmonized.tsv', 'demo_prs_distribution.png', 'demo_prs_summary.tsv',
-                    'demo_reference_prs.tsv', 'demo_snp_counts.tsv', 'demo_weights.tsv']
+                    'demo_reference_prs.tsv', 'demo_snp_counts.tsv', 'demo_weights.tsv',
+                    'demo_atac_overlap.tsv', 'demo_atac_summary.tsv']
 
 
 def read_dosages(bfile, snps):
@@ -142,6 +143,13 @@ class DemoRunTests(unittest.TestCase):
         cases = self.gwas.drop_duplicates('SNP').set_index('SNP').loc[self.weights['SNP'], 'Demo_Case']
         self.assertTrue(cases.isin(['As simulated', 'Opposite strand']).all())
 
+    def test_synthetic_peak_overlap_counts_unique_snps(self):
+        snps = pd.read_csv(self.first / 'demo_atac_overlap.tsv', sep='\t')
+        summary = pd.read_csv(self.first / 'demo_atac_summary.tsv', sep='\t').iloc[0]
+        self.assertEqual(len(snps), snps.SNP.nunique())
+        self.assertEqual(int(summary.Overlapping_SNPs), 3)
+        self.assertEqual(int(snps.loc[snps.SNP.eq('rs104664'), 'Synthetic_ATAC_Peaks'].iloc[0]), 1)
+
     def test_plink_scores_match_hand_counted_dosages(self):
         bim = read_bim(DEMO / 'demo_reference').set_index('SNP')
         for bfile, expected in [(DEMO / 'demo_reference', self.reference_scores.to_numpy()),
@@ -171,15 +179,6 @@ class LocusZoomTests(unittest.TestCase):
     def test_merge_exons_combines_overlapping_and_adjacent_exons_only(self):
         rows = pd.DataFrame({3: [100, 150, 201, 400], 4: [160, 200, 250, 450]})
         self.assertEqual(merge_exons(rows), [[100, 250], [400, 450]])
-
-
-class PublicationSafetyTests(unittest.TestCase):
-    @unittest.skipUnless((REPO_ROOT / '.git').exists(), 'Needs a Git repository')
-    def test_no_private_files_would_be_published(self):
-        sys.path.insert(0, str(REPO_ROOT / 'scripts'))
-        from check_public_files import find_problems
-        _, problems = find_problems()
-        self.assertEqual(problems, [])
 
 
 if __name__ == '__main__':

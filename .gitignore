@@ -278,3 +278,29 @@ quater1_weekly_tasks*.ipynb
 
 # macOS
 .DS_Store
+
+# Detailed public-data intermediates can be regenerated; publish summary tables and figures.
+/results/week7/overlapping_associations.tsv.gz
+/results/week7/peaks_GRCh37.tsv.gz
+/results/week7/snp_peak_links.tsv.gz
+# Selected GWAS effects remain local; source redistribution conditions may restrict sharing.
+/results/part2/*/weights.tsv
+
+# Local working notebook and complete paper collection include personal results.
+# The notebook was already tracked; use the release allowlist, not git add -a.
+/notebooks/quarter1_project.ipynb
+/results/paper_figures/
+
+# Per-gene model intermediates and local paper handoff (may include target plots).
+/results/expression_prediction/*/models/
+/paper/figures/
+
+# Superseded prediction pilot: kept locally (frozen) but not published.
+/results/expression_prediction/pilot150/
+# Frozen-protocol bookkeeping. Keep locally: evaluation refuses to rescore the test set
+# while these exist. Readers need the summaries and saved models, not these.
+/results/expression_prediction/*/plan.json
+/results/expression_prediction/*/frozen_experiment.json
+/results/expression_prediction/*/test_evaluation.json
+/results/expression_prediction/*/genotype_provenance.json
+/results/expression_prediction/*/fit_runtime.json
